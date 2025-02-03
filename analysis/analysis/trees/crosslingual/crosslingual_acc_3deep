@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="model_llama <= 0.5\nsamples = 8372\nvalue = 0.755"] ;
+1 [label="prompt_len <= 206.5\nsamples = 5980\nvalue = 0.932"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="prompt_len <= 107.5\nsamples = 3992\nvalue = 0.992"] ;
+1 -> 2 ;
+3 [label="samples = 2279\nvalue = 0.996"] ;
+2 -> 3 ;
+4 [label="samples = 1713\nvalue = 0.986"] ;
+2 -> 4 ;
+5 [label="genre_HEHE <= 0.5\nsamples = 1988\nvalue = 0.813"] ;
+1 -> 5 ;
+6 [label="samples = 264\nvalue = 0.947"] ;
+5 -> 6 ;
+7 [label="samples = 1724\nvalue = 0.793"] ;
+5 -> 7 ;
+8 [label="prompt_location_End <= 0.5\nsamples = 2392\nvalue = 0.31"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="prompt_location_Middle <= 0.5\nsamples = 1496\nvalue = 0.21"] ;
+8 -> 9 ;
+10 [label="samples = 904\nvalue = 0.145"] ;
+9 -> 10 ;
+11 [label="samples = 592\nvalue = 0.309"] ;
+9 -> 11 ;
+12 [label="prompt_len <= 9921.5\nsamples = 896\nvalue = 0.477"] ;
+8 -> 12 ;
+13 [label="samples = 864\nvalue = 0.492"] ;
+12 -> 13 ;
+14 [label="samples = 32\nvalue = 0.062"] ;
+12 -> 14 ;
+}

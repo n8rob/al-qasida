@@ -1,0 +1,71 @@
+[
+    {
+        "prompt_type_written in {language_requested}": 0.0023158749926306646
+    },
+    {
+        "prompt_type_using {language_requested}": 0.00315275360212888
+    },
+    {
+        "prompt_type_in {language_requested}": 0.0044995101601821305
+    },
+    {
+        "prompt_phrasing_Integrated": 0.006125313615078285
+    },
+    {
+        "prompt_type_respond in {language_requested}": 0.0095237131141144
+    },
+    {
+        "dialect_sau": 0.009728606084879398
+    },
+    {
+        "dialect_syr": 0.009951613442011847
+    },
+    {
+        "prompt_location_Middle": 0.010116358827635166
+    },
+    {
+        "prompt_type_use {language_requested}": 0.010338178893171308
+    },
+    {
+        "prompt_type_answer in {language_requested}": 0.010457510438586597
+    },
+    {
+        "prompt_type_write in {language_requested}": 0.01065392814213453
+    },
+    {
+        "n_shots": 0.01100192286034551
+    },
+    {
+        "dialect_pse": 0.011701647196706915
+    },
+    {
+        "genre_Okapi": 0.011848930283273783
+    },
+    {
+        "dialect_kwt": 0.012599570252222447
+    },
+    {
+        "dialect_egy": 0.018877236417193466
+    },
+    {
+        "dialect_mar": 0.019157883729131697
+    },
+    {
+        "genre_HEHE": 0.02086593329976398
+    },
+    {
+        "dialect_sdn": 0.02125978792214411
+    },
+    {
+        "model_gpt-4o": 0.02249456953167778
+    },
+    {
+        "prompt_location_End": 0.03618710745779128
+    },
+    {
+        "prompt_len": 0.2986767012343885
+    },
+    {
+        "model_llama": 0.4284653485028072
+    }
+]

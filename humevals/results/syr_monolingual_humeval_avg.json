@@ -1,0 +1,32 @@
+{
+    "command_r+": {
+        "Adherence": 2.46,
+        "Fluency": 4.8,
+        "Dialectal Accuracy": 1.92,
+        "TVD": 0.09175420151377058,
+        "Fluency_Fidelity_SpearmanR": 0.0,
+        "Fluency_Fidelity_p": 1.0,
+        "TVD_Fidelity_SpearmanR": 0.38079574782659714,
+        "TVD_Fidelity_p": 0.006369107059268334
+    },
+    "command_r+_base": {
+        "Adherence": 1.22,
+        "Fluency": 2.78,
+        "Dialectal Accuracy": 2.98,
+        "TVD": 0.2996484754830923,
+        "Fluency_Fidelity_SpearmanR": -0.03818909086976077,
+        "Fluency_Fidelity_p": 0.7923165509657553,
+        "TVD_Fidelity_SpearmanR": 0.6018822159699746,
+        "TVD_Fidelity_p": 3.773828162001147e-06
+    },
+    "gpt-4o": {
+        "Adherence": 2.52,
+        "Fluency": 4.7,
+        "Dialectal Accuracy": 2.14,
+        "TVD": 0.08215845250941069,
+        "Fluency_Fidelity_SpearmanR": -0.09423718056555572,
+        "Fluency_Fidelity_p": 0.5150758858295205,
+        "TVD_Fidelity_SpearmanR": 0.6851791020149587,
+        "TVD_Fidelity_p": 4.0452956661723616e-08
+    }
+}

@@ -1,0 +1,1157 @@
+~~~~~~~~~~~~~~~~~~~~~~~~ command_r_monolingual ~~~~~~~~~~~~~~~~~~~~~~~~
+
+BTEC	dza	score = 0.02	prob = 0.128	dialectness = 0.122	macro_score = 0.09	
+BTEC	egy	score = 0.086	prob = 0.214	dialectness = 0.124	macro_score = 0.087	
+BTEC	sau	score = 0.011	prob = 0.09	dialectness = 0.036	macro_score = 0.025	
+BTEC	syr	score = 0.024	prob = 0.106	dialectness = 0.107	macro_score = 0.083	
+BTEC	mar	score = 0.118	prob = 0.325	dialectness = 0.157	macro_score = 0.12	
+BTEC	pse	score = 0.017	prob = 0.063	dialectness = 0.092	macro_score = 0.059	
+BTEC	sdn	score = 0.014	prob = 0.112	dialectness = 0.08	macro_score = 0.05	
+
+----------------------------------------------------------------------
+
+FLORES	egy	score = 0.03	prob = 0.121	dialectness = 0.034	macro_score = 0.03	
+FLORES	sau	score = 0.0	prob = 0.022	dialectness = 0.001	macro_score = 0.0	
+FLORES	syr	score = 0.0	prob = 0.043	dialectness = 0.035	macro_score = 0.005	
+FLORES	mar	score = 0.067	prob = 0.237	dialectness = 0.076	macro_score = 0.068	
+FLORES	pse	score = 0.002	prob = 0.049	dialectness = 0.021	macro_score = 0.012	
+
+----------------------------------------------------------------------
+
+HABIBI	dza	score = 0.044	prob = 0.202	dialectness = 0.219	macro_score = 0.145	
+HABIBI	egy	score = 0.112	prob = 0.283	dialectness = 0.151	macro_score = 0.114	
+HABIBI	sau	score = 0.01	prob = 0.059	dialectness = 0.099	macro_score = 0.073	
+HABIBI	syr	score = 0.038	prob = 0.083	dialectness = 0.259	macro_score = 0.102	
+HABIBI	kwt	score = 0.003	prob = 0.012	dialectness = 0.106	macro_score = 0.065	
+HABIBI	mar	score = 0.066	prob = 0.412	dialectness = 0.146	macro_score = 0.091	
+HABIBI	pse	score = 0.021	prob = 0.083	dialectness = 0.148	macro_score = 0.045	
+HABIBI	sdn	score = 0.002	prob = 0.039	dialectness = 0.14	macro_score = 0.067	
+
+----------------------------------------------------------------------
+
+TWEET	dza	score = 0.127	prob = 0.416	dialectness = 0.236	macro_score = 0.19	
+TWEET	egy	score = 0.181	prob = 0.363	dialectness = 0.205	macro_score = 0.182	
+TWEET	sau	score = 0.044	prob = 0.264	dialectness = 0.094	macro_score = 0.073	
+TWEET	syr	score = 0.076	prob = 0.301	dialectness = 0.138	macro_score = 0.117	
+TWEET	kwt	score = 0.003	prob = 0.027	dialectness = 0.1	macro_score = 0.086	
+TWEET	mar	score = 0.114	prob = 0.577	dialectness = 0.132	macro_score = 0.116	
+TWEET	pse	score = 0.045	prob = 0.31	dialectness = 0.113	macro_score = 0.073	
+TWEET	sdn	score = 0.032	prob = 0.237	dialectness = 0.136	macro_score = 0.106	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~ command_r+_monolingual ~~~~~~~~~~~~~~~~~~~~~~~~
+
+BTEC	dza	score = 0.086	prob = 0.241	dialectness = 0.181	macro_score = 0.158	
+BTEC	egy	score = 0.128	prob = 0.298	dialectness = 0.165	macro_score = 0.135	
+BTEC	sau	score = 0.012	prob = 0.072	dialectness = 0.046	macro_score = 0.037	
+BTEC	syr	score = 0.102	prob = 0.179	dialectness = 0.311	macro_score = 0.241	
+BTEC	mar	score = 0.148	prob = 0.535	dialectness = 0.172	macro_score = 0.149	
+BTEC	pse	score = 0.014	prob = 0.062	dialectness = 0.095	macro_score = 0.068	
+BTEC	sdn	score = 0.011	prob = 0.145	dialectness = 0.052	macro_score = 0.039	
+
+----------------------------------------------------------------------
+
+FLORES	egy	score = 0.082	prob = 0.207	dialectness = 0.092	macro_score = 0.082	
+FLORES	sau	score = 0.0	prob = 0.021	dialectness = 0.0	macro_score = 0.0	
+FLORES	syr	score = 0.044	prob = 0.121	dialectness = 0.178	macro_score = 0.108	
+FLORES	mar	score = 0.096	prob = 0.391	dialectness = 0.098	macro_score = 0.097	
+FLORES	pse	score = 0.003	prob = 0.052	dialectness = 0.026	macro_score = 0.018	
+
+----------------------------------------------------------------------
+
+HABIBI	dza	score = 0.06	prob = 0.212	dialectness = 0.243	macro_score = 0.155	
+HABIBI	egy	score = 0.133	prob = 0.31	dialectness = 0.189	macro_score = 0.134	
+HABIBI	sau	score = 0.011	prob = 0.053	dialectness = 0.093	macro_score = 0.07	
+HABIBI	syr	score = 0.063	prob = 0.123	dialectness = 0.341	macro_score = 0.158	
+HABIBI	kwt	score = 0.007	prob = 0.019	dialectness = 0.121	macro_score = 0.084	
+HABIBI	mar	score = 0.104	prob = 0.462	dialectness = 0.138	macro_score = 0.113	
+HABIBI	pse	score = 0.032	prob = 0.079	dialectness = 0.183	macro_score = 0.086	
+HABIBI	sdn	score = 0.005	prob = 0.049	dialectness = 0.103	macro_score = 0.057	
+
+----------------------------------------------------------------------
+
+TWEET	dza	score = 0.196	prob = 0.497	dialectness = 0.269	macro_score = 0.263	
+TWEET	egy	score = 0.125	prob = 0.349	dialectness = 0.154	macro_score = 0.126	
+TWEET	sau	score = 0.047	prob = 0.305	dialectness = 0.094	macro_score = 0.083	
+TWEET	syr	score = 0.099	prob = 0.399	dialectness = 0.223	macro_score = 0.172	
+TWEET	kwt	score = 0.013	prob = 0.054	dialectness = 0.122	macro_score = 0.109	
+TWEET	mar	score = 0.115	prob = 0.626	dialectness = 0.145	macro_score = 0.137	
+TWEET	pse	score = 0.037	prob = 0.351	dialectness = 0.134	macro_score = 0.083	
+TWEET	sdn	score = 0.032	prob = 0.25	dialectness = 0.093	macro_score = 0.076	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~ gpt-4o_monolingual ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+BTEC	dza	score = 0.072	prob = 0.243	dialectness = 0.116	macro_score = 0.108	
+BTEC	egy	score = 0.143	prob = 0.335	dialectness = 0.184	macro_score = 0.151	
+BTEC	sau	score = 0.01	prob = 0.084	dialectness = 0.042	macro_score = 0.036	
+BTEC	syr	score = 0.061	prob = 0.178	dialectness = 0.21	macro_score = 0.166	
+BTEC	mar	score = 0.123	prob = 0.534	dialectness = 0.13	macro_score = 0.123	
+BTEC	pse	score = 0.024	prob = 0.124	dialectness = 0.104	macro_score = 0.085	
+BTEC	sdn	score = 0.034	prob = 0.201	dialectness = 0.074	macro_score = 0.038	
+
+----------------------------------------------------------------------
+
+FLORES	egy	score = 0.138	prob = 0.309	dialectness = 0.152	macro_score = 0.138	
+FLORES	sau	score = 0.0	prob = 0.044	dialectness = 0.002	macro_score = 0.001	
+FLORES	syr	score = 0.024	prob = 0.099	dialectness = 0.115	macro_score = 0.078	
+FLORES	mar	score = 0.069	prob = 0.29	dialectness = 0.074	macro_score = 0.072	
+FLORES	pse	score = 0.004	prob = 0.049	dialectness = 0.031	macro_score = 0.018	
+
+----------------------------------------------------------------------
+
+HABIBI	dza	score = 0.04	prob = 0.296	dialectness = 0.109	macro_score = 0.072	
+HABIBI	egy	score = 0.149	prob = 0.348	dialectness = 0.218	macro_score = 0.151	
+HABIBI	sau	score = 0.006	prob = 0.049	dialectness = 0.074	macro_score = 0.052	
+HABIBI	syr	score = 0.041	prob = 0.114	dialectness = 0.24	macro_score = 0.112	
+HABIBI	kwt	score = 0.001	prob = 0.01	dialectness = 0.083	macro_score = 0.06	
+HABIBI	mar	score = 0.041	prob = 0.425	dialectness = 0.091	macro_score = 0.06	
+HABIBI	pse	score = 0.006	prob = 0.04	dialectness = 0.129	macro_score = 0.022	
+HABIBI	sdn	score = 0.008	prob = 0.096	dialectness = 0.064	macro_score = 0.023	
+
+----------------------------------------------------------------------
+
+TWEET	dza	score = 0.094	prob = 0.46	dialectness = 0.114	macro_score = 0.103	
+TWEET	egy	score = 0.203	prob = 0.461	dialectness = 0.247	macro_score = 0.204	
+TWEET	sau	score = 0.035	prob = 0.331	dialectness = 0.075	macro_score = 0.067	
+TWEET	syr	score = 0.086	prob = 0.381	dialectness = 0.169	macro_score = 0.139	
+TWEET	kwt	score = 0.006	prob = 0.045	dialectness = 0.111	macro_score = 0.099	
+TWEET	mar	score = 0.093	prob = 0.614	dialectness = 0.11	macro_score = 0.105	
+TWEET	pse	score = 0.045	prob = 0.343	dialectness = 0.099	macro_score = 0.072	
+TWEET	sdn	score = 0.079	prob = 0.415	dialectness = 0.114	macro_score = 0.086	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~ llama_monolingual ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+BTEC	dza	score = 0.172	prob = 0.291	dialectness = 0.519	macro_score = 0.395	
+BTEC	egy	score = 0.492	prob = 0.66	dialectness = 0.573	macro_score = 0.494	
+BTEC	sau	score = 0.021	prob = 0.072	dialectness = 0.146	macro_score = 0.093	
+BTEC	syr	score = 0.096	prob = 0.143	dialectness = 0.416	macro_score = 0.229	
+BTEC	mar	score = 0.423	prob = 0.626	dialectness = 0.547	macro_score = 0.446	
+BTEC	pse	score = 0.045	prob = 0.101	dialectness = 0.284	macro_score = 0.174	
+BTEC	sdn	score = 0.152	prob = 0.276	dialectness = 0.355	macro_score = 0.282	
+
+----------------------------------------------------------------------
+
+FLORES	egy	score = 0.359	prob = 0.594	dialectness = 0.452	macro_score = 0.379	
+FLORES	sau	score = 0.003	prob = 0.035	dialectness = 0.037	macro_score = 0.013	
+FLORES	syr	score = 0.065	prob = 0.151	dialectness = 0.231	macro_score = 0.153	
+FLORES	mar	score = 0.358	prob = 0.607	dialectness = 0.401	macro_score = 0.37	
+FLORES	pse	score = 0.014	prob = 0.075	dialectness = 0.154	macro_score = 0.085	
+
+----------------------------------------------------------------------
+
+HABIBI	dza	score = 0.125	prob = 0.175	dialectness = 0.528	macro_score = 0.337	
+HABIBI	egy	score = 0.473	prob = 0.617	dialectness = 0.579	macro_score = 0.478	
+HABIBI	sau	score = 0.019	prob = 0.048	dialectness = 0.188	macro_score = 0.074	
+HABIBI	syr	score = 0.054	prob = 0.083	dialectness = 0.41	macro_score = 0.142	
+HABIBI	kwt	score = 0.012	prob = 0.018	dialectness = 0.193	macro_score = 0.095	
+HABIBI	mar	score = 0.267	prob = 0.447	dialectness = 0.551	macro_score = 0.331	
+HABIBI	pse	score = 0.018	prob = 0.034	dialectness = 0.343	macro_score = 0.044	
+HABIBI	sdn	score = 0.069	prob = 0.131	dialectness = 0.402	macro_score = 0.247	
+
+----------------------------------------------------------------------
+
+TWEET	dza	score = 0.271	prob = 0.367	dialectness = 0.572	macro_score = 0.484	
+TWEET	egy	score = 0.518	prob = 0.632	dialectness = 0.614	macro_score = 0.524	
+TWEET	sau	score = 0.12	prob = 0.265	dialectness = 0.318	macro_score = 0.204	
+TWEET	syr	score = 0.102	prob = 0.232	dialectness = 0.38	macro_score = 0.204	
+TWEET	kwt	score = 0.046	prob = 0.084	dialectness = 0.25	macro_score = 0.154	
+TWEET	mar	score = 0.402	prob = 0.596	dialectness = 0.59	macro_score = 0.424	
+TWEET	pse	score = 0.147	prob = 0.307	dialectness = 0.351	macro_score = 0.22	
+TWEET	sdn	score = 0.198	prob = 0.321	dialectness = 0.403	macro_score = 0.326	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~ silma_monolingual ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+BTEC	dza	score = 0.026	prob = 0.042	dialectness = 0.137	macro_score = 0.096	
+BTEC	egy	score = 0.04	prob = 0.066	dialectness = 0.057	macro_score = 0.04	
+BTEC	sau	score = 0.017	prob = 0.067	dialectness = 0.046	macro_score = 0.033	
+BTEC	syr	score = 0.009	prob = 0.017	dialectness = 0.068	macro_score = 0.025	
+BTEC	mar	score = 0.044	prob = 0.071	dialectness = 0.062	macro_score = 0.052	
+BTEC	pse	score = 0.034	prob = 0.064	dialectness = 0.117	macro_score = 0.067	
+BTEC	sdn	score = 0.017	prob = 0.073	dialectness = 0.067	macro_score = 0.03	
+
+----------------------------------------------------------------------
+
+FLORES	egy	score = 0.008	prob = 0.026	dialectness = 0.017	macro_score = 0.008	
+FLORES	sau	score = 0.001	prob = 0.026	dialectness = 0.003	macro_score = 0.003	
+FLORES	syr	score = 0.0	prob = 0.007	dialectness = 0.007	macro_score = 0.0	
+FLORES	mar	score = 0.045	prob = 0.097	dialectness = 0.054	macro_score = 0.049	
+FLORES	pse	score = 0.007	prob = 0.024	dialectness = 0.03	macro_score = 0.015	
+
+----------------------------------------------------------------------
+
+HABIBI	dza	score = 0.026	prob = 0.059	dialectness = 0.151	macro_score = 0.123	
+HABIBI	egy	score = 0.025	prob = 0.048	dialectness = 0.042	macro_score = 0.025	
+HABIBI	sau	score = 0.006	prob = 0.036	dialectness = 0.068	macro_score = 0.041	
+HABIBI	syr	score = 0.015	prob = 0.02	dialectness = 0.077	macro_score = 0.035	
+HABIBI	kwt	score = 0.001	prob = 0.003	dialectness = 0.117	macro_score = 0.043	
+HABIBI	mar	score = 0.091	prob = 0.204	dialectness = 0.134	macro_score = 0.102	
+HABIBI	pse	score = 0.013	prob = 0.031	dialectness = 0.201	macro_score = 0.049	
+HABIBI	sdn	score = 0.003	prob = 0.011	dialectness = 0.17	macro_score = 0.072	
+
+----------------------------------------------------------------------
+
+TWEET	dza	score = 0.016	prob = 0.032	dialectness = 0.087	macro_score = 0.065	
+TWEET	egy	score = 0.013	prob = 0.028	dialectness = 0.02	macro_score = 0.013	
+TWEET	sau	score = 0.002	prob = 0.02	dialectness = 0.005	macro_score = 0.003	
+TWEET	syr	score = 0.0	prob = 0.001	dialectness = 0.009	macro_score = 0.0	
+TWEET	kwt	score = 0.021	prob = 0.029	dialectness = 0.058	macro_score = 0.043	
+TWEET	mar	score = 0.041	prob = 0.061	dialectness = 0.048	macro_score = 0.045	
+TWEET	pse	score = 0.005	prob = 0.023	dialectness = 0.025	macro_score = 0.008	
+TWEET	sdn	score = 0.006	prob = 0.022	dialectness = 0.03	macro_score = 0.014	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~ acegpt_monolingual ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+BTEC	dza	score = 0.091	prob = 0.243	dialectness = 0.23	macro_score = 0.15	
+BTEC	egy	score = 0.159	prob = 0.262	dialectness = 0.273	macro_score = 0.185	
+BTEC	sau	score = 0.011	prob = 0.067	dialectness = 0.061	macro_score = 0.048	
+BTEC	syr	score = 0.051	prob = 0.152	dialectness = 0.166	macro_score = 0.11	
+BTEC	mar	score = 0.114	prob = 0.31	dialectness = 0.179	macro_score = 0.129	
+BTEC	pse	score = 0.013	prob = 0.049	dialectness = 0.148	macro_score = 0.087	
+BTEC	sdn	score = 0.069	prob = 0.2	dialectness = 0.145	macro_score = 0.077	
+
+----------------------------------------------------------------------
+
+FLORES	egy	score = 0.093	prob = 0.195	dialectness = 0.136	macro_score = 0.102	
+FLORES	sau	score = 0.001	prob = 0.046	dialectness = 0.023	macro_score = 0.011	
+FLORES	syr	score = 0.007	prob = 0.047	dialectness = 0.05	macro_score = 0.022	
+FLORES	mar	score = 0.072	prob = 0.236	dialectness = 0.113	macro_score = 0.089	
+FLORES	pse	score = 0.002	prob = 0.03	dialectness = 0.043	macro_score = 0.022	
+
+----------------------------------------------------------------------
+
+HABIBI	dza	score = 0.098	prob = 0.257	dialectness = 0.213	macro_score = 0.154	
+HABIBI	egy	score = 0.144	prob = 0.253	dialectness = 0.237	macro_score = 0.148	
+HABIBI	sau	score = 0.006	prob = 0.043	dialectness = 0.07	macro_score = 0.041	
+HABIBI	syr	score = 0.031	prob = 0.099	dialectness = 0.175	macro_score = 0.095	
+HABIBI	kwt	score = 0.002	prob = 0.009	dialectness = 0.126	macro_score = 0.069	
+HABIBI	mar	score = 0.068	prob = 0.29	dialectness = 0.201	macro_score = 0.108	
+HABIBI	pse	score = 0.016	prob = 0.036	dialectness = 0.191	macro_score = 0.053	
+HABIBI	sdn	score = 0.035	prob = 0.078	dialectness = 0.182	macro_score = 0.066	
+
+----------------------------------------------------------------------
+
+TWEET	dza	score = 0.159	prob = 0.34	dialectness = 0.326	macro_score = 0.234	
+TWEET	egy	score = 0.155	prob = 0.278	dialectness = 0.234	macro_score = 0.166	
+TWEET	sau	score = 0.05	prob = 0.15	dialectness = 0.125	macro_score = 0.088	
+TWEET	syr	score = 0.05	prob = 0.178	dialectness = 0.11	macro_score = 0.079	
+TWEET	kwt	score = 0.013	prob = 0.042	dialectness = 0.115	macro_score = 0.065	
+TWEET	mar	score = 0.14	prob = 0.378	dialectness = 0.229	macro_score = 0.167	
+TWEET	pse	score = 0.057	prob = 0.157	dialectness = 0.169	macro_score = 0.096	
+TWEET	sdn	score = 0.114	prob = 0.281	dialectness = 0.198	macro_score = 0.14	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~ command_r_base_monolingual ~~~~~~~~~~~~~~~~~~~~~~
+
+BTEC	dza	score = 0.03	prob = 0.109	dialectness = 0.252	macro_score = 0.242	
+BTEC	egy	score = 0.325	prob = 0.549	dialectness = 0.366	macro_score = 0.327	
+BTEC	sau	score = 0.076	prob = 0.236	dialectness = 0.169	macro_score = 0.115	
+BTEC	syr	score = 0.111	prob = 0.228	dialectness = 0.361	macro_score = 0.276	
+BTEC	mar	score = 0.279	prob = 0.798	dialectness = 0.288	macro_score = 0.285	
+BTEC	pse	score = 0.029	prob = 0.091	dialectness = 0.178	macro_score = 0.117	
+BTEC	sdn	score = 0.041	prob = 0.17	dialectness = 0.188	macro_score = 0.136	
+
+----------------------------------------------------------------------
+
+FLORES	egy	score = 0.337	prob = 0.58	dialectness = 0.396	macro_score = 0.344	
+FLORES	sau	score = 0.015	prob = 0.131	dialectness = 0.062	macro_score = 0.028	
+FLORES	syr	score = 0.062	prob = 0.138	dialectness = 0.265	macro_score = 0.207	
+FLORES	mar	score = 0.279	prob = 0.712	dialectness = 0.296	macro_score = 0.283	
+FLORES	pse	score = 0.014	prob = 0.062	dialectness = 0.123	macro_score = 0.084	
+
+----------------------------------------------------------------------
+
+HABIBI	dza	score = 0.041	prob = 0.13	dialectness = 0.3	macro_score = 0.283	
+HABIBI	egy	score = 0.211	prob = 0.437	dialectness = 0.288	macro_score = 0.217	
+HABIBI	sau	score = 0.053	prob = 0.209	dialectness = 0.182	macro_score = 0.105	
+HABIBI	syr	score = 0.071	prob = 0.165	dialectness = 0.253	macro_score = 0.16	
+HABIBI	kwt	score = 0.002	prob = 0.007	dialectness = 0.167	macro_score = 0.08	
+HABIBI	mar	score = 0.26	prob = 0.726	dialectness = 0.307	macro_score = 0.284	
+HABIBI	pse	score = 0.016	prob = 0.045	dialectness = 0.163	macro_score = 0.063	
+HABIBI	sdn	score = 0.027	prob = 0.084	dialectness = 0.173	macro_score = 0.114	
+
+----------------------------------------------------------------------
+
+TWEET	dza	score = 0.097	prob = 0.225	dialectness = 0.22	macro_score = 0.213	
+TWEET	egy	score = 0.42	prob = 0.641	dialectness = 0.478	macro_score = 0.424	
+TWEET	sau	score = 0.134	prob = 0.354	dialectness = 0.233	macro_score = 0.173	
+TWEET	syr	score = 0.175	prob = 0.389	dialectness = 0.312	macro_score = 0.256	
+TWEET	kwt	score = 0.011	prob = 0.032	dialectness = 0.191	macro_score = 0.125	
+TWEET	mar	score = 0.296	prob = 0.816	dialectness = 0.302	macro_score = 0.298	
+TWEET	pse	score = 0.065	prob = 0.213	dialectness = 0.219	macro_score = 0.149	
+TWEET	sdn	score = 0.186	prob = 0.395	dialectness = 0.312	macro_score = 0.22	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~ command_r+_base_monolingual ~~~~~~~~~~~~~~~~~~~~~
+
+BTEC	dza	score = 0.12	prob = 0.234	dialectness = 0.377	macro_score = 0.357	
+BTEC	egy	score = 0.476	prob = 0.635	dialectness = 0.565	macro_score = 0.489	
+BTEC	sau	score = 0.147	prob = 0.293	dialectness = 0.315	macro_score = 0.233	
+BTEC	syr	score = 0.157	prob = 0.241	dialectness = 0.429	macro_score = 0.322	
+BTEC	mar	score = 0.365	prob = 0.781	dialectness = 0.386	macro_score = 0.37	
+BTEC	pse	score = 0.081	prob = 0.162	dialectness = 0.343	macro_score = 0.269	
+BTEC	sdn	score = 0.173	prob = 0.329	dialectness = 0.368	macro_score = 0.289	
+
+----------------------------------------------------------------------
+
+FLORES	egy	score = 0.245	prob = 0.424	dialectness = 0.309	macro_score = 0.258	
+FLORES	sau	score = 0.019	prob = 0.143	dialectness = 0.072	macro_score = 0.042	
+FLORES	syr	score = 0.093	prob = 0.2	dialectness = 0.318	macro_score = 0.26	
+FLORES	mar	score = 0.275	prob = 0.613	dialectness = 0.313	macro_score = 0.302	
+FLORES	pse	score = 0.022	prob = 0.059	dialectness = 0.233	macro_score = 0.177	
+
+----------------------------------------------------------------------
+
+HABIBI	dza	score = 0.073	prob = 0.139	dialectness = 0.397	macro_score = 0.381	
+HABIBI	egy	score = 0.366	prob = 0.538	dialectness = 0.468	macro_score = 0.371	
+HABIBI	sau	score = 0.103	prob = 0.285	dialectness = 0.276	macro_score = 0.174	
+HABIBI	syr	score = 0.134	prob = 0.218	dialectness = 0.473	macro_score = 0.276	
+HABIBI	kwt	score = 0.019	prob = 0.042	dialectness = 0.318	macro_score = 0.192	
+HABIBI	mar	score = 0.333	prob = 0.761	dialectness = 0.374	macro_score = 0.367	
+HABIBI	pse	score = 0.04	prob = 0.082	dialectness = 0.309	macro_score = 0.148	
+HABIBI	sdn	score = 0.096	prob = 0.285	dialectness = 0.289	macro_score = 0.219	
+
+----------------------------------------------------------------------
+
+TWEET	dza	score = 0.233	prob = 0.344	dialectness = 0.386	macro_score = 0.367	
+TWEET	egy	score = 0.456	prob = 0.603	dialectness = 0.53	macro_score = 0.469	
+TWEET	sau	score = 0.291	prob = 0.542	dialectness = 0.376	macro_score = 0.339	
+TWEET	syr	score = 0.368	prob = 0.527	dialectness = 0.568	macro_score = 0.512	
+TWEET	kwt	score = 0.079	prob = 0.129	dialectness = 0.319	macro_score = 0.25	
+TWEET	mar	score = 0.321	prob = 0.799	dialectness = 0.346	macro_score = 0.336	
+TWEET	pse	score = 0.171	prob = 0.305	dialectness = 0.414	macro_score = 0.339	
+TWEET	sdn	score = 0.339	prob = 0.604	dialectness = 0.433	macro_score = 0.364	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~ llama-base_monolingual ~~~~~~~~~~~~~~~~~~~~~~~~
+
+BTEC	dza	score = 0.159	prob = 0.212	dialectness = 0.547	macro_score = 0.493	
+BTEC	egy	score = 0.407	prob = 0.535	dialectness = 0.493	macro_score = 0.419	
+BTEC	sau	score = 0.048	prob = 0.093	dialectness = 0.217	macro_score = 0.134	
+BTEC	syr	score = 0.142	prob = 0.191	dialectness = 0.437	macro_score = 0.278	
+BTEC	mar	score = 0.442	prob = 0.557	dialectness = 0.559	macro_score = 0.478	
+BTEC	pse	score = 0.05	prob = 0.085	dialectness = 0.387	macro_score = 0.244	
+BTEC	sdn	score = 0.094	prob = 0.171	dialectness = 0.243	macro_score = 0.167	
+
+----------------------------------------------------------------------
+
+FLORES	egy	score = 0.249	prob = 0.385	dialectness = 0.286	macro_score = 0.257	
+FLORES	sau	score = 0.002	prob = 0.05	dialectness = 0.049	macro_score = 0.014	
+FLORES	syr	score = 0.039	prob = 0.088	dialectness = 0.237	macro_score = 0.109	
+FLORES	mar	score = 0.364	prob = 0.579	dialectness = 0.413	macro_score = 0.38	
+FLORES	pse	score = 0.009	prob = 0.04	dialectness = 0.101	macro_score = 0.062	
+
+----------------------------------------------------------------------
+
+HABIBI	dza	score = 0.145	prob = 0.201	dialectness = 0.538	macro_score = 0.441	
+HABIBI	egy	score = 0.279	prob = 0.351	dialectness = 0.409	macro_score = 0.293	
+HABIBI	sau	score = 0.039	prob = 0.082	dialectness = 0.243	macro_score = 0.117	
+HABIBI	syr	score = 0.06	prob = 0.091	dialectness = 0.438	macro_score = 0.161	
+HABIBI	kwt	score = 0.011	prob = 0.018	dialectness = 0.15	macro_score = 0.075	
+HABIBI	mar	score = 0.289	prob = 0.453	dialectness = 0.449	macro_score = 0.333	
+HABIBI	pse	score = 0.023	prob = 0.039	dialectness = 0.317	macro_score = 0.105	
+HABIBI	sdn	score = 0.039	prob = 0.084	dialectness = 0.266	macro_score = 0.146	
+
+----------------------------------------------------------------------
+
+TWEET	dza	score = 0.217	prob = 0.264	dialectness = 0.479	macro_score = 0.411	
+TWEET	egy	score = 0.374	prob = 0.483	dialectness = 0.486	macro_score = 0.376	
+TWEET	sau	score = 0.126	prob = 0.225	dialectness = 0.216	macro_score = 0.177	
+TWEET	syr	score = 0.165	prob = 0.253	dialectness = 0.406	macro_score = 0.272	
+TWEET	kwt	score = 0.052	prob = 0.092	dialectness = 0.229	macro_score = 0.155	
+TWEET	mar	score = 0.398	prob = 0.556	dialectness = 0.502	macro_score = 0.445	
+TWEET	pse	score = 0.148	prob = 0.235	dialectness = 0.359	macro_score = 0.256	
+TWEET	sdn	score = 0.197	prob = 0.314	dialectness = 0.315	macro_score = 0.237	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~ command_r_crosslingual ~~~~~~~~~~~~~~~~~~~~~~~~
+
+HEHE	dza	score = 0.008	prob = 0.097	dialectness = 0.03	macro_score = 0.017	
+HEHE	egy	score = 0.006	prob = 0.113	dialectness = 0.029	macro_score = 0.008	
+HEHE	sau	score = 0.002	prob = 0.055	dialectness = 0.016	macro_score = 0.011	
+HEHE	syr	score = 0.0	prob = 0.042	dialectness = 0.014	macro_score = 0.001	
+HEHE	kwt	score = 0.0	prob = 0.042	dialectness = 0.015	macro_score = 0.01	
+HEHE	mar	score = 0.03	prob = 0.138	dialectness = 0.038	macro_score = 0.032	
+HEHE	pse	score = 0.003	prob = 0.036	dialectness = 0.015	macro_score = 0.004	
+HEHE	sdn	score = 0.001	prob = 0.053	dialectness = 0.026	macro_score = 0.006	
+
+----------------------------------------------------------------------
+
+Okapi	dza	score = 0.008	prob = 0.114	dialectness = 0.016	macro_score = 0.015	
+Okapi	egy	score = 0.017	prob = 0.202	dialectness = 0.027	macro_score = 0.018	
+Okapi	sau	score = 0.007	prob = 0.132	dialectness = 0.012	macro_score = 0.011	
+Okapi	syr	score = 0.006	prob = 0.19	dialectness = 0.011	macro_score = 0.006	
+Okapi	kwt	score = 0.007	prob = 0.159	dialectness = 0.011	macro_score = 0.009	
+Okapi	mar	score = 0.015	prob = 0.261	dialectness = 0.031	macro_score = 0.018	
+Okapi	pse	score = 0.004	prob = 0.124	dialectness = 0.012	macro_score = 0.01	
+Okapi	sdn	score = 0.005	prob = 0.057	dialectness = 0.017	macro_score = 0.011	
+
+----------------------------------------------------------------------
+
+ShareGPT	dza	score = 0.004	prob = 0.109	dialectness = 0.005	macro_score = 0.004	
+ShareGPT	egy	score = 0.03	prob = 0.153	dialectness = 0.032	macro_score = 0.031	
+ShareGPT	sau	score = 0.003	prob = 0.099	dialectness = 0.004	macro_score = 0.004	
+ShareGPT	syr	score = 0.005	prob = 0.144	dialectness = 0.006	macro_score = 0.005	
+ShareGPT	kwt	score = 0.004	prob = 0.089	dialectness = 0.006	macro_score = 0.006	
+ShareGPT	mar	score = 0.009	prob = 0.111	dialectness = 0.01	macro_score = 0.009	
+ShareGPT	pse	score = 0.003	prob = 0.069	dialectness = 0.01	macro_score = 0.009	
+ShareGPT	sdn	score = 0.001	prob = 0.045	dialectness = 0.015	macro_score = 0.011	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~ command_r+_crosslingual ~~~~~~~~~~~~~~~~~~~~~~~
+
+HEHE	dza	score = 0.035	prob = 0.106	dialectness = 0.061	macro_score = 0.049	
+HEHE	egy	score = 0.075	prob = 0.195	dialectness = 0.093	macro_score = 0.076	
+HEHE	sau	score = 0.006	prob = 0.081	dialectness = 0.025	macro_score = 0.013	
+HEHE	syr	score = 0.04	prob = 0.153	dialectness = 0.07	macro_score = 0.059	
+HEHE	kwt	score = 0.009	prob = 0.084	dialectness = 0.064	macro_score = 0.049	
+HEHE	mar	score = 0.122	prob = 0.329	dialectness = 0.137	macro_score = 0.128	
+HEHE	pse	score = 0.023	prob = 0.166	dialectness = 0.106	macro_score = 0.084	
+HEHE	sdn	score = 0.027	prob = 0.099	dialectness = 0.095	macro_score = 0.062	
+
+----------------------------------------------------------------------
+
+Okapi	dza	score = 0.014	prob = 0.265	dialectness = 0.021	macro_score = 0.019	
+Okapi	egy	score = 0.02	prob = 0.227	dialectness = 0.024	macro_score = 0.02	
+Okapi	sau	score = 0.001	prob = 0.144	dialectness = 0.002	macro_score = 0.001	
+Okapi	syr	score = 0.007	prob = 0.256	dialectness = 0.011	macro_score = 0.01	
+Okapi	kwt	score = 0.002	prob = 0.115	dialectness = 0.021	macro_score = 0.018	
+Okapi	mar	score = 0.097	prob = 0.414	dialectness = 0.102	macro_score = 0.098	
+Okapi	pse	score = 0.006	prob = 0.176	dialectness = 0.021	macro_score = 0.016	
+Okapi	sdn	score = 0.007	prob = 0.204	dialectness = 0.032	macro_score = 0.016	
+
+----------------------------------------------------------------------
+
+ShareGPT	dza	score = 0.047	prob = 0.262	dialectness = 0.1	macro_score = 0.092	
+ShareGPT	egy	score = 0.024	prob = 0.168	dialectness = 0.027	macro_score = 0.024	
+ShareGPT	sau	score = 0.0	prob = 0.083	dialectness = 0.003	macro_score = 0.002	
+ShareGPT	syr	score = 0.015	prob = 0.28	dialectness = 0.036	macro_score = 0.032	
+ShareGPT	kwt	score = 0.001	prob = 0.078	dialectness = 0.025	macro_score = 0.025	
+ShareGPT	mar	score = 0.122	prob = 0.358	dialectness = 0.123	macro_score = 0.122	
+ShareGPT	pse	score = 0.021	prob = 0.13	dialectness = 0.092	macro_score = 0.087	
+ShareGPT	sdn	score = 0.015	prob = 0.23	dialectness = 0.046	macro_score = 0.025	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~ gpt-4o_crosslingual ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HEHE	dza	score = 0.093	prob = 0.184	dialectness = 0.199	macro_score = 0.186	
+HEHE	egy	score = 0.325	prob = 0.524	dialectness = 0.366	macro_score = 0.337	
+HEHE	sau	score = 0.02	prob = 0.071	dialectness = 0.044	macro_score = 0.037	
+HEHE	syr	score = 0.09	prob = 0.158	dialectness = 0.209	macro_score = 0.181	
+HEHE	kwt	score = 0.015	prob = 0.027	dialectness = 0.186	macro_score = 0.159	
+HEHE	mar	score = 0.295	prob = 0.669	dialectness = 0.303	macro_score = 0.3	
+HEHE	pse	score = 0.048	prob = 0.117	dialectness = 0.241	macro_score = 0.166	
+HEHE	sdn	score = 0.044	prob = 0.081	dialectness = 0.177	macro_score = 0.077	
+
+----------------------------------------------------------------------
+
+Okapi	dza	score = 0.194	prob = 0.609	dialectness = 0.24	macro_score = 0.236	
+Okapi	egy	score = 0.425	prob = 0.856	dialectness = 0.458	macro_score = 0.427	
+Okapi	sau	score = 0.003	prob = 0.157	dialectness = 0.018	macro_score = 0.013	
+Okapi	syr	score = 0.083	prob = 0.444	dialectness = 0.182	macro_score = 0.164	
+Okapi	kwt	score = 0.007	prob = 0.128	dialectness = 0.097	macro_score = 0.085	
+Okapi	mar	score = 0.359	prob = 0.909	dialectness = 0.363	macro_score = 0.359	
+Okapi	pse	score = 0.043	prob = 0.366	dialectness = 0.123	macro_score = 0.094	
+Okapi	sdn	score = 0.055	prob = 0.601	dialectness = 0.099	macro_score = 0.083	
+
+----------------------------------------------------------------------
+
+ShareGPT	dza	score = 0.152	prob = 0.398	dialectness = 0.264	macro_score = 0.25	
+ShareGPT	egy	score = 0.376	prob = 0.825	dialectness = 0.401	macro_score = 0.377	
+ShareGPT	sau	score = 0.009	prob = 0.195	dialectness = 0.042	macro_score = 0.023	
+ShareGPT	syr	score = 0.121	prob = 0.354	dialectness = 0.269	macro_score = 0.242	
+ShareGPT	kwt	score = 0.013	prob = 0.112	dialectness = 0.172	macro_score = 0.163	
+ShareGPT	mar	score = 0.356	prob = 0.926	dialectness = 0.358	macro_score = 0.357	
+ShareGPT	pse	score = 0.056	prob = 0.224	dialectness = 0.241	macro_score = 0.195	
+ShareGPT	sdn	score = 0.083	prob = 0.34	dialectness = 0.27	macro_score = 0.21	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~ llama_crosslingual ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HEHE	dza	score = 0.012	prob = 0.124	dialectness = 0.044	macro_score = 0.029	
+HEHE	egy	score = 0.01	prob = 0.139	dialectness = 0.025	macro_score = 0.01	
+HEHE	sau	score = 0.002	prob = 0.058	dialectness = 0.01	macro_score = 0.004	
+HEHE	syr	score = 0.003	prob = 0.111	dialectness = 0.031	macro_score = 0.005	
+HEHE	kwt	score = 0.0	prob = 0.054	dialectness = 0.01	macro_score = 0.001	
+HEHE	mar	score = 0.017	prob = 0.091	dialectness = 0.04	macro_score = 0.019	
+HEHE	pse	score = 0.004	prob = 0.119	dialectness = 0.02	macro_score = 0.005	
+HEHE	sdn	score = 0.019	prob = 0.124	dialectness = 0.043	macro_score = 0.031	
+
+----------------------------------------------------------------------
+
+Okapi	dza	score = 0.008	prob = 0.129	dialectness = 0.034	macro_score = 0.016	
+Okapi	egy	score = 0.005	prob = 0.115	dialectness = 0.006	macro_score = 0.005	
+Okapi	sau	score = 0.0	prob = 0.068	dialectness = 0.0	macro_score = 0.0	
+Okapi	syr	score = 0.001	prob = 0.11	dialectness = 0.003	macro_score = 0.002	
+Okapi	kwt	score = 0.001	prob = 0.102	dialectness = 0.001	macro_score = 0.001	
+Okapi	mar	score = 0.01	prob = 0.118	dialectness = 0.019	macro_score = 0.01	
+Okapi	pse	score = 0.001	prob = 0.115	dialectness = 0.001	macro_score = 0.001	
+Okapi	sdn	score = 0.006	prob = 0.147	dialectness = 0.012	macro_score = 0.006	
+
+----------------------------------------------------------------------
+
+ShareGPT	dza	score = 0.005	prob = 0.055	dialectness = 0.026	macro_score = 0.017	
+ShareGPT	egy	score = 0.008	prob = 0.138	dialectness = 0.01	macro_score = 0.008	
+ShareGPT	sau	score = 0.0	prob = 0.066	dialectness = 0.001	macro_score = 0.001	
+ShareGPT	syr	score = 0.001	prob = 0.037	dialectness = 0.005	macro_score = 0.002	
+ShareGPT	kwt	score = 0.001	prob = 0.073	dialectness = 0.007	macro_score = 0.003	
+ShareGPT	mar	score = 0.028	prob = 0.182	dialectness = 0.067	macro_score = 0.034	
+ShareGPT	pse	score = 0.001	prob = 0.117	dialectness = 0.007	macro_score = 0.003	
+ShareGPT	sdn	score = 0.007	prob = 0.061	dialectness = 0.018	macro_score = 0.012	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~ silma_crosslingual ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HEHE	dza	score = 0.0	prob = 0.0	dialectness = 0.003	macro_score = 0.0	
+HEHE	egy	score = 0.007	prob = 0.013	dialectness = 0.009	macro_score = 0.007	
+HEHE	sau	score = 0.001	prob = 0.007	dialectness = 0.001	macro_score = 0.001	
+HEHE	syr	score = 0.0	prob = 0.001	dialectness = 0.001	macro_score = 0.0	
+HEHE	kwt	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+HEHE	mar	score = 0.0	prob = 0.001	dialectness = 0.008	macro_score = 0.0	
+HEHE	pse	score = 0.0	prob = 0.001	dialectness = 0.001	macro_score = 0.0	
+HEHE	sdn	score = 0.0	prob = 0.0	dialectness = 0.005	macro_score = 0.0	
+
+----------------------------------------------------------------------
+
+Okapi	dza	score = 0.001	prob = 0.049	dialectness = 0.06	macro_score = 0.04	
+Okapi	egy	score = 0.067	prob = 0.141	dialectness = 0.101	macro_score = 0.068	
+Okapi	sau	score = 0.0	prob = 0.033	dialectness = 0.0	macro_score = 0.0	
+Okapi	syr	score = 0.001	prob = 0.056	dialectness = 0.016	macro_score = 0.003	
+Okapi	kwt	score = 0.001	prob = 0.048	dialectness = 0.01	macro_score = 0.008	
+Okapi	mar	score = 0.031	prob = 0.142	dialectness = 0.055	macro_score = 0.032	
+Okapi	pse	score = 0.001	prob = 0.054	dialectness = 0.028	macro_score = 0.002	
+Okapi	sdn	score = 0.0	prob = 0.035	dialectness = 0.021	macro_score = 0.002	
+
+----------------------------------------------------------------------
+
+ShareGPT	dza	score = 0.0	prob = 0.001	dialectness = 0.02	macro_score = 0.009	
+ShareGPT	egy	score = 0.008	prob = 0.023	dialectness = 0.018	macro_score = 0.008	
+ShareGPT	sau	score = 0.0	prob = 0.031	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	syr	score = 0.0	prob = 0.013	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	kwt	score = 0.0	prob = 0.02	dialectness = 0.01	macro_score = 0.007	
+ShareGPT	mar	score = 0.004	prob = 0.02	dialectness = 0.007	macro_score = 0.004	
+ShareGPT	pse	score = 0.0	prob = 0.021	dialectness = 0.006	macro_score = 0.001	
+ShareGPT	sdn	score = 0.0	prob = 0.01	dialectness = 0.007	macro_score = 0.001	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~ acegpt_crosslingual ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HEHE	dza	score = 0.002	prob = 0.011	dialectness = 0.006	macro_score = 0.004	
+HEHE	egy	score = 0.006	prob = 0.012	dialectness = 0.01	macro_score = 0.006	
+HEHE	sau	score = 0.0	prob = 0.012	dialectness = 0.007	macro_score = 0.001	
+HEHE	syr	score = 0.0	prob = 0.012	dialectness = 0.004	macro_score = 0.0	
+HEHE	kwt	score = 0.0	prob = 0.005	dialectness = 0.008	macro_score = 0.006	
+HEHE	mar	score = 0.001	prob = 0.02	dialectness = 0.007	macro_score = 0.002	
+HEHE	pse	score = 0.0	prob = 0.002	dialectness = 0.001	macro_score = 0.0	
+HEHE	sdn	score = 0.001	prob = 0.027	dialectness = 0.025	macro_score = 0.015	
+
+----------------------------------------------------------------------
+
+Okapi	dza	score = 0.0	prob = 0.011	dialectness = 0.003	macro_score = 0.0	
+Okapi	egy	score = 0.001	prob = 0.05	dialectness = 0.004	macro_score = 0.001	
+Okapi	sau	score = 0.002	prob = 0.056	dialectness = 0.007	macro_score = 0.004	
+Okapi	syr	score = 0.001	prob = 0.035	dialectness = 0.003	macro_score = 0.001	
+Okapi	kwt	score = 0.0	prob = 0.051	dialectness = 0.004	macro_score = 0.003	
+Okapi	mar	score = 0.0	prob = 0.075	dialectness = 0.001	macro_score = 0.0	
+Okapi	pse	score = 0.0	prob = 0.034	dialectness = 0.002	macro_score = 0.0	
+Okapi	sdn	score = 0.0	prob = 0.043	dialectness = 0.001	macro_score = 0.0	
+
+----------------------------------------------------------------------
+
+ShareGPT	dza	score = 0.001	prob = 0.032	dialectness = 0.009	macro_score = 0.001	
+ShareGPT	egy	score = 0.003	prob = 0.056	dialectness = 0.012	macro_score = 0.003	
+ShareGPT	sau	score = 0.0	prob = 0.037	dialectness = 0.001	macro_score = 0.001	
+ShareGPT	syr	score = 0.002	prob = 0.033	dialectness = 0.002	macro_score = 0.002	
+ShareGPT	kwt	score = 0.001	prob = 0.045	dialectness = 0.011	macro_score = 0.011	
+ShareGPT	mar	score = 0.001	prob = 0.034	dialectness = 0.014	macro_score = 0.002	
+ShareGPT	pse	score = 0.0	prob = 0.012	dialectness = 0.003	macro_score = 0.0	
+ShareGPT	sdn	score = 0.005	prob = 0.079	dialectness = 0.009	macro_score = 0.005	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~ command_r_base_crosslingual ~~~~~~~~~~~~~~~~~~~~~
+
+HEHE	dza	score = 0.001	prob = 0.011	dialectness = 0.002	macro_score = 0.001	
+HEHE	egy	score = 0.001	prob = 0.032	dialectness = 0.002	macro_score = 0.001	
+HEHE	sau	score = 0.0	prob = 0.006	dialectness = 0.0	macro_score = 0.0	
+HEHE	syr	score = 0.001	prob = 0.014	dialectness = 0.003	macro_score = 0.001	
+HEHE	kwt	score = 0.0	prob = 0.001	dialectness = 0.001	macro_score = 0.0	
+HEHE	mar	score = 0.0	prob = 0.016	dialectness = 0.001	macro_score = 0.0	
+HEHE	pse	score = 0.0	prob = 0.001	dialectness = 0.002	macro_score = 0.0	
+HEHE	sdn	score = 0.0	prob = 0.0	dialectness = 0.004	macro_score = 0.0	
+
+----------------------------------------------------------------------
+
+Okapi	dza	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	egy	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	sau	score = 0.0	prob = 0.001	dialectness = 0.004	macro_score = 0.002	
+Okapi	syr	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	kwt	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	mar	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	pse	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	sdn	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+
+----------------------------------------------------------------------
+
+ShareGPT	dza	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	egy	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	sau	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	syr	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	kwt	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	mar	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	pse	score = 0.001	prob = 0.01	dialectness = 0.002	macro_score = 0.001	
+ShareGPT	sdn	score = 0.0	prob = 0.01	dialectness = 0.0	macro_score = 0.0	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~ command_r+_base_crosslingual ~~~~~~~~~~~~~~~~~~~~~
+
+HEHE	dza	score = 0.002	prob = 0.021	dialectness = 0.005	macro_score = 0.003	
+HEHE	egy	score = 0.001	prob = 0.014	dialectness = 0.004	macro_score = 0.001	
+HEHE	sau	score = 0.0	prob = 0.024	dialectness = 0.003	macro_score = 0.001	
+HEHE	syr	score = 0.003	prob = 0.025	dialectness = 0.005	macro_score = 0.003	
+HEHE	kwt	score = 0.002	prob = 0.014	dialectness = 0.01	macro_score = 0.007	
+HEHE	mar	score = 0.009	prob = 0.054	dialectness = 0.014	macro_score = 0.01	
+HEHE	pse	score = 0.0	prob = 0.002	dialectness = 0.004	macro_score = 0.001	
+HEHE	sdn	score = 0.002	prob = 0.033	dialectness = 0.004	macro_score = 0.002	
+
+----------------------------------------------------------------------
+
+Okapi	dza	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	egy	score = 0.001	prob = 0.01	dialectness = 0.001	macro_score = 0.001	
+Okapi	sau	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	syr	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	kwt	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	mar	score = 0.005	prob = 0.01	dialectness = 0.005	macro_score = 0.005	
+Okapi	pse	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	sdn	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+
+----------------------------------------------------------------------
+
+ShareGPT	dza	score = 0.002	prob = 0.02	dialectness = 0.002	macro_score = 0.002	
+ShareGPT	egy	score = 0.001	prob = 0.01	dialectness = 0.001	macro_score = 0.001	
+ShareGPT	sau	score = 0.0	prob = 0.01	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	syr	score = 0.0	prob = 0.018	dialectness = 0.002	macro_score = 0.0	
+ShareGPT	kwt	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	mar	score = 0.0	prob = 0.01	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	pse	score = 0.0	prob = 0.005	dialectness = 0.001	macro_score = 0.0	
+ShareGPT	sdn	score = 0.002	prob = 0.02	dialectness = 0.002	macro_score = 0.002	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~ llama-base_crosslingual ~~~~~~~~~~~~~~~~~~~~~~~
+
+HEHE	dza	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+HEHE	egy	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+HEHE	sau	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+HEHE	syr	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+HEHE	kwt	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+HEHE	mar	score = 0.0	prob = 0.0	dialectness = 0.001	macro_score = 0.0	
+HEHE	pse	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+HEHE	sdn	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+
+----------------------------------------------------------------------
+
+Okapi	dza	score = 0.0	prob = 0.01	dialectness = 0.0	macro_score = 0.0	
+Okapi	egy	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	sau	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	syr	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	kwt	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	mar	score = 0.0	prob = 0.0	dialectness = 0.003	macro_score = 0.0	
+Okapi	pse	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+Okapi	sdn	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+
+----------------------------------------------------------------------
+
+ShareGPT	dza	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	egy	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	sau	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	syr	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	kwt	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	mar	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	pse	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+ShareGPT	sdn	score = 0.0	prob = 0.0	dialectness = 0.0	macro_score = 0.0	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ command_r_mt ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Madar26	dza_to_eng	SpBLEU_corpus_score = 0.341	ChrF_corpus_score = 0.522	
+Madar26	egy_to_eng	SpBLEU_corpus_score = 0.386	ChrF_corpus_score = 0.57	
+Madar26	sau_to_eng	SpBLEU_corpus_score = 0.458	ChrF_corpus_score = 0.623	
+Madar26	syr_to_eng	SpBLEU_corpus_score = 0.398	ChrF_corpus_score = 0.576	
+Madar26	eng_to_dza	SpBLEU_corpus_score = 0.113	ChrF_corpus_score = 0.274	
+Madar26	eng_to_egy	SpBLEU_corpus_score = 0.126	ChrF_corpus_score = 0.284	
+Madar26	eng_to_sau	SpBLEU_corpus_score = 0.133	ChrF_corpus_score = 0.326	
+Madar26	eng_to_syr	SpBLEU_corpus_score = 0.102	ChrF_corpus_score = 0.274	
+Madar26	dza_to_msa	SpBLEU_corpus_score = 0.159	ChrF_corpus_score = 0.345	
+Madar26	egy_to_msa	SpBLEU_corpus_score = 0.18	ChrF_corpus_score = 0.381	
+Madar26	sau_to_msa	SpBLEU_corpus_score = 0.182	ChrF_corpus_score = 0.392	
+Madar26	syr_to_msa	SpBLEU_corpus_score = 0.18	ChrF_corpus_score = 0.38	
+Madar26	msa_to_dza	SpBLEU_corpus_score = 0.035	ChrF_corpus_score = 0.199	
+Madar26	msa_to_egy	SpBLEU_corpus_score = 0.161	ChrF_corpus_score = 0.333	
+Madar26	msa_to_sau	SpBLEU_corpus_score = 0.084	ChrF_corpus_score = 0.294	
+Madar26	msa_to_syr	SpBLEU_corpus_score = 0.086	ChrF_corpus_score = 0.288	
+
+----------------------------------------------------------------------
+
+Flores200	egy_to_eng	SpBLEU_corpus_score = 0.346	ChrF_corpus_score = 0.557	
+Flores200	sau_to_eng	SpBLEU_corpus_score = 0.389	ChrF_corpus_score = 0.599	
+Flores200	syr_to_eng	SpBLEU_corpus_score = 0.375	ChrF_corpus_score = 0.583	
+Flores200	eng_to_egy	SpBLEU_corpus_score = 0.225	ChrF_corpus_score = 0.387	
+Flores200	eng_to_sau	SpBLEU_corpus_score = 0.294	ChrF_corpus_score = 0.465	
+Flores200	eng_to_syr	SpBLEU_corpus_score = 0.21	ChrF_corpus_score = 0.402	
+Flores200	egy_to_msa	SpBLEU_corpus_score = 0.392	ChrF_corpus_score = 0.528	
+Flores200	sau_to_msa	SpBLEU_corpus_score = 0.461	ChrF_corpus_score = 0.598	
+Flores200	syr_to_msa	SpBLEU_corpus_score = 0.366	ChrF_corpus_score = 0.507	
+Flores200	msa_to_egy	SpBLEU_corpus_score = 0.27	ChrF_corpus_score = 0.413	
+Flores200	msa_to_sau	SpBLEU_corpus_score = 0.208	ChrF_corpus_score = 0.398	
+Flores200	msa_to_syr	SpBLEU_corpus_score = 0.151	ChrF_corpus_score = 0.342	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~ command_r+_mt ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Madar26	dza_to_eng	SpBLEU_corpus_score = 0.383	ChrF_corpus_score = 0.552	
+Madar26	egy_to_eng	SpBLEU_corpus_score = 0.449	ChrF_corpus_score = 0.62	
+Madar26	sau_to_eng	SpBLEU_corpus_score = 0.525	ChrF_corpus_score = 0.675	
+Madar26	syr_to_eng	SpBLEU_corpus_score = 0.463	ChrF_corpus_score = 0.623	
+Madar26	eng_to_dza	SpBLEU_corpus_score = 0.144	ChrF_corpus_score = 0.311	
+Madar26	eng_to_egy	SpBLEU_corpus_score = 0.229	ChrF_corpus_score = 0.374	
+Madar26	eng_to_sau	SpBLEU_corpus_score = 0.227	ChrF_corpus_score = 0.388	
+Madar26	eng_to_syr	SpBLEU_corpus_score = 0.18	ChrF_corpus_score = 0.329	
+Madar26	dza_to_msa	SpBLEU_corpus_score = 0.186	ChrF_corpus_score = 0.387	
+Madar26	egy_to_msa	SpBLEU_corpus_score = 0.232	ChrF_corpus_score = 0.426	
+Madar26	sau_to_msa	SpBLEU_corpus_score = 0.234	ChrF_corpus_score = 0.45	
+Madar26	syr_to_msa	SpBLEU_corpus_score = 0.24	ChrF_corpus_score = 0.434	
+Madar26	msa_to_dza	SpBLEU_corpus_score = 0.117	ChrF_corpus_score = 0.313	
+Madar26	msa_to_egy	SpBLEU_corpus_score = 0.238	ChrF_corpus_score = 0.394	
+Madar26	msa_to_sau	SpBLEU_corpus_score = 0.141	ChrF_corpus_score = 0.347	
+Madar26	msa_to_syr	SpBLEU_corpus_score = 0.206	ChrF_corpus_score = 0.392	
+
+----------------------------------------------------------------------
+
+Flores200	egy_to_eng	SpBLEU_corpus_score = 0.373	ChrF_corpus_score = 0.585	
+Flores200	sau_to_eng	SpBLEU_corpus_score = 0.451	ChrF_corpus_score = 0.648	
+Flores200	syr_to_eng	SpBLEU_corpus_score = 0.419	ChrF_corpus_score = 0.62	
+Flores200	eng_to_egy	SpBLEU_corpus_score = 0.282	ChrF_corpus_score = 0.428	
+Flores200	eng_to_sau	SpBLEU_corpus_score = 0.404	ChrF_corpus_score = 0.539	
+Flores200	eng_to_syr	SpBLEU_corpus_score = 0.294	ChrF_corpus_score = 0.468	
+Flores200	egy_to_msa	SpBLEU_corpus_score = 0.475	ChrF_corpus_score = 0.591	
+Flores200	sau_to_msa	SpBLEU_corpus_score = 0.63	ChrF_corpus_score = 0.726	
+Flores200	syr_to_msa	SpBLEU_corpus_score = 0.397	ChrF_corpus_score = 0.529	
+Flores200	msa_to_egy	SpBLEU_corpus_score = 0.377	ChrF_corpus_score = 0.51	
+Flores200	msa_to_sau	SpBLEU_corpus_score = 0.363	ChrF_corpus_score = 0.511	
+Flores200	msa_to_syr	SpBLEU_corpus_score = 0.309	ChrF_corpus_score = 0.464	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ gpt-4o_mt ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Madar26	dza_to_eng	SpBLEU_corpus_score = 0.392	ChrF_corpus_score = 0.565	
+Madar26	egy_to_eng	SpBLEU_corpus_score = 0.454	ChrF_corpus_score = 0.623	
+Madar26	sau_to_eng	SpBLEU_corpus_score = 0.541	ChrF_corpus_score = 0.686	
+Madar26	syr_to_eng	SpBLEU_corpus_score = 0.496	ChrF_corpus_score = 0.646	
+Madar26	eng_to_dza	SpBLEU_corpus_score = 0.237	ChrF_corpus_score = 0.383	
+Madar26	eng_to_egy	SpBLEU_corpus_score = 0.292	ChrF_corpus_score = 0.449	
+Madar26	eng_to_sau	SpBLEU_corpus_score = 0.302	ChrF_corpus_score = 0.457	
+Madar26	eng_to_syr	SpBLEU_corpus_score = 0.333	ChrF_corpus_score = 0.478	
+Madar26	dza_to_msa	SpBLEU_corpus_score = 0.195	ChrF_corpus_score = 0.395	
+Madar26	egy_to_msa	SpBLEU_corpus_score = 0.231	ChrF_corpus_score = 0.434	
+Madar26	sau_to_msa	SpBLEU_corpus_score = 0.249	ChrF_corpus_score = 0.452	
+Madar26	syr_to_msa	SpBLEU_corpus_score = 0.249	ChrF_corpus_score = 0.444	
+Madar26	msa_to_dza	SpBLEU_corpus_score = 0.184	ChrF_corpus_score = 0.332	
+Madar26	msa_to_egy	SpBLEU_corpus_score = 0.281	ChrF_corpus_score = 0.438	
+Madar26	msa_to_sau	SpBLEU_corpus_score = 0.26	ChrF_corpus_score = 0.435	
+Madar26	msa_to_syr	SpBLEU_corpus_score = 0.281	ChrF_corpus_score = 0.439	
+
+----------------------------------------------------------------------
+
+Flores200	egy_to_eng	SpBLEU_corpus_score = 0.378	ChrF_corpus_score = 0.589	
+Flores200	sau_to_eng	SpBLEU_corpus_score = 0.439	ChrF_corpus_score = 0.646	
+Flores200	syr_to_eng	SpBLEU_corpus_score = 0.425	ChrF_corpus_score = 0.629	
+Flores200	eng_to_egy	SpBLEU_corpus_score = 0.302	ChrF_corpus_score = 0.445	
+Flores200	eng_to_sau	SpBLEU_corpus_score = 0.397	ChrF_corpus_score = 0.531	
+Flores200	eng_to_syr	SpBLEU_corpus_score = 0.337	ChrF_corpus_score = 0.487	
+Flores200	egy_to_msa	SpBLEU_corpus_score = 0.514	ChrF_corpus_score = 0.625	
+Flores200	sau_to_msa	SpBLEU_corpus_score = 0.866	ChrF_corpus_score = 0.906	
+Flores200	syr_to_msa	SpBLEU_corpus_score = 0.419	ChrF_corpus_score = 0.549	
+Flores200	msa_to_egy	SpBLEU_corpus_score = 0.466	ChrF_corpus_score = 0.577	
+Flores200	msa_to_sau	SpBLEU_corpus_score = 0.539	ChrF_corpus_score = 0.637	
+Flores200	msa_to_syr	SpBLEU_corpus_score = 0.365	ChrF_corpus_score = 0.503	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ llama_mt ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Madar26	dza_to_eng	SpBLEU_corpus_score = 0.015	ChrF_corpus_score = 0.132	
+Madar26	egy_to_eng	SpBLEU_corpus_score = 0.019	ChrF_corpus_score = 0.141	
+Madar26	sau_to_eng	SpBLEU_corpus_score = 0.025	ChrF_corpus_score = 0.159	
+Madar26	syr_to_eng	SpBLEU_corpus_score = 0.017	ChrF_corpus_score = 0.141	
+Madar26	mar_to_eng	SpBLEU_corpus_score = 0.019	ChrF_corpus_score = 0.142	
+Madar26	pse_to_eng	SpBLEU_corpus_score = 0.017	ChrF_corpus_score = 0.136	
+Madar26	sdn_to_eng	SpBLEU_corpus_score = 0.023	ChrF_corpus_score = 0.152	
+Madar26	eng_to_dza	SpBLEU_corpus_score = 0.003	ChrF_corpus_score = 0.046	
+Madar26	eng_to_egy	SpBLEU_corpus_score = 0.005	ChrF_corpus_score = 0.066	
+Madar26	eng_to_sau	SpBLEU_corpus_score = 0.008	ChrF_corpus_score = 0.072	
+Madar26	eng_to_syr	SpBLEU_corpus_score = 0.004	ChrF_corpus_score = 0.059	
+Madar26	eng_to_mar	SpBLEU_corpus_score = 0.003	ChrF_corpus_score = 0.057	
+Madar26	eng_to_pse	SpBLEU_corpus_score = 0.006	ChrF_corpus_score = 0.062	
+Madar26	eng_to_sdn	SpBLEU_corpus_score = 0.005	ChrF_corpus_score = 0.058	
+Madar26	dza_to_msa	SpBLEU_corpus_score = 0.007	ChrF_corpus_score = 0.081	
+Madar26	egy_to_msa	SpBLEU_corpus_score = 0.009	ChrF_corpus_score = 0.087	
+Madar26	sau_to_msa	SpBLEU_corpus_score = 0.012	ChrF_corpus_score = 0.095	
+Madar26	syr_to_msa	SpBLEU_corpus_score = 0.009	ChrF_corpus_score = 0.079	
+Madar26	mar_to_msa	SpBLEU_corpus_score = 0.01	ChrF_corpus_score = 0.084	
+Madar26	pse_to_msa	SpBLEU_corpus_score = 0.01	ChrF_corpus_score = 0.079	
+Madar26	sdn_to_msa	SpBLEU_corpus_score = 0.008	ChrF_corpus_score = 0.083	
+Madar26	msa_to_dza	SpBLEU_corpus_score = 0.007	ChrF_corpus_score = 0.084	
+Madar26	msa_to_egy	SpBLEU_corpus_score = 0.008	ChrF_corpus_score = 0.077	
+Madar26	msa_to_sau	SpBLEU_corpus_score = 0.012	ChrF_corpus_score = 0.097	
+Madar26	msa_to_syr	SpBLEU_corpus_score = 0.008	ChrF_corpus_score = 0.075	
+Madar26	msa_to_mar	SpBLEU_corpus_score = 0.009	ChrF_corpus_score = 0.085	
+Madar26	msa_to_pse	SpBLEU_corpus_score = 0.008	ChrF_corpus_score = 0.076	
+Madar26	msa_to_sdn	SpBLEU_corpus_score = 0.01	ChrF_corpus_score = 0.088	
+
+----------------------------------------------------------------------
+
+Flores200	egy_to_eng	SpBLEU_corpus_score = 0.07	ChrF_corpus_score = 0.37	
+Flores200	sau_to_eng	SpBLEU_corpus_score = 0.084	ChrF_corpus_score = 0.396	
+Flores200	syr_to_eng	SpBLEU_corpus_score = 0.077	ChrF_corpus_score = 0.382	
+Flores200	mar_to_eng	SpBLEU_corpus_score = 0.056	ChrF_corpus_score = 0.345	
+Flores200	pse_to_eng	SpBLEU_corpus_score = 0.081	ChrF_corpus_score = 0.391	
+Flores200	eng_to_egy	SpBLEU_corpus_score = 0.05	ChrF_corpus_score = 0.235	
+Flores200	eng_to_sau	SpBLEU_corpus_score = 0.068	ChrF_corpus_score = 0.259	
+Flores200	eng_to_syr	SpBLEU_corpus_score = 0.045	ChrF_corpus_score = 0.224	
+Flores200	eng_to_mar	SpBLEU_corpus_score = 0.023	ChrF_corpus_score = 0.158	
+Flores200	eng_to_pse	SpBLEU_corpus_score = 0.054	ChrF_corpus_score = 0.245	
+Flores200	egy_to_msa	SpBLEU_corpus_score = 0.125	ChrF_corpus_score = 0.351	
+Flores200	sau_to_msa	SpBLEU_corpus_score = 0.265	ChrF_corpus_score = 0.554	
+Flores200	syr_to_msa	SpBLEU_corpus_score = 0.099	ChrF_corpus_score = 0.313	
+Flores200	mar_to_msa	SpBLEU_corpus_score = 0.09	ChrF_corpus_score = 0.292	
+Flores200	pse_to_msa	SpBLEU_corpus_score = 0.103	ChrF_corpus_score = 0.32	
+Flores200	msa_to_egy	SpBLEU_corpus_score = 0.103	ChrF_corpus_score = 0.325	
+Flores200	msa_to_sau	SpBLEU_corpus_score = 0.239	ChrF_corpus_score = 0.523	
+Flores200	msa_to_syr	SpBLEU_corpus_score = 0.087	ChrF_corpus_score = 0.316	
+Flores200	msa_to_mar	SpBLEU_corpus_score = 0.059	ChrF_corpus_score = 0.247	
+Flores200	msa_to_pse	SpBLEU_corpus_score = 0.097	ChrF_corpus_score = 0.339	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ silma_mt ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Madar26	dza_to_eng	SpBLEU_corpus_score = 0.275	ChrF_corpus_score = 0.474	
+Madar26	egy_to_eng	SpBLEU_corpus_score = 0.342	ChrF_corpus_score = 0.534	
+Madar26	sau_to_eng	SpBLEU_corpus_score = 0.434	ChrF_corpus_score = 0.611	
+Madar26	syr_to_eng	SpBLEU_corpus_score = 0.339	ChrF_corpus_score = 0.514	
+Madar26	mar_to_eng	SpBLEU_corpus_score = 0.36	ChrF_corpus_score = 0.539	
+Madar26	pse_to_eng	SpBLEU_corpus_score = 0.351	ChrF_corpus_score = 0.535	
+Madar26	sdn_to_eng	SpBLEU_corpus_score = 0.435	ChrF_corpus_score = 0.602	
+Madar26	eng_to_dza	SpBLEU_corpus_score = 0.088	ChrF_corpus_score = 0.248	
+Madar26	eng_to_egy	SpBLEU_corpus_score = 0.11	ChrF_corpus_score = 0.287	
+Madar26	eng_to_sau	SpBLEU_corpus_score = 0.161	ChrF_corpus_score = 0.35	
+Madar26	eng_to_syr	SpBLEU_corpus_score = 0.115	ChrF_corpus_score = 0.298	
+Madar26	eng_to_mar	SpBLEU_corpus_score = 0.096	ChrF_corpus_score = 0.266	
+Madar26	eng_to_pse	SpBLEU_corpus_score = 0.12	ChrF_corpus_score = 0.296	
+Madar26	eng_to_sdn	SpBLEU_corpus_score = 0.135	ChrF_corpus_score = 0.312	
+Madar26	dza_to_msa	SpBLEU_corpus_score = 0.1	ChrF_corpus_score = 0.324	
+Madar26	egy_to_msa	SpBLEU_corpus_score = 0.139	ChrF_corpus_score = 0.354	
+Madar26	sau_to_msa	SpBLEU_corpus_score = 0.14	ChrF_corpus_score = 0.359	
+Madar26	syr_to_msa	SpBLEU_corpus_score = 0.122	ChrF_corpus_score = 0.322	
+Madar26	mar_to_msa	SpBLEU_corpus_score = 0.155	ChrF_corpus_score = 0.358	
+Madar26	pse_to_msa	SpBLEU_corpus_score = 0.119	ChrF_corpus_score = 0.322	
+Madar26	sdn_to_msa	SpBLEU_corpus_score = 0.144	ChrF_corpus_score = 0.384	
+Madar26	msa_to_dza	SpBLEU_corpus_score = 0.094	ChrF_corpus_score = 0.277	
+Madar26	msa_to_egy	SpBLEU_corpus_score = 0.123	ChrF_corpus_score = 0.313	
+Madar26	msa_to_sau	SpBLEU_corpus_score = 0.17	ChrF_corpus_score = 0.374	
+Madar26	msa_to_syr	SpBLEU_corpus_score = 0.125	ChrF_corpus_score = 0.325	
+Madar26	msa_to_mar	SpBLEU_corpus_score = 0.113	ChrF_corpus_score = 0.285	
+Madar26	msa_to_pse	SpBLEU_corpus_score = 0.128	ChrF_corpus_score = 0.323	
+Madar26	msa_to_sdn	SpBLEU_corpus_score = 0.131	ChrF_corpus_score = 0.336	
+
+----------------------------------------------------------------------
+
+Flores200	egy_to_eng	SpBLEU_corpus_score = 0.307	ChrF_corpus_score = 0.552	
+Flores200	sau_to_eng	SpBLEU_corpus_score = 0.372	ChrF_corpus_score = 0.602	
+Flores200	syr_to_eng	SpBLEU_corpus_score = 0.342	ChrF_corpus_score = 0.582	
+Flores200	mar_to_eng	SpBLEU_corpus_score = 0.275	ChrF_corpus_score = 0.5	
+Flores200	pse_to_eng	SpBLEU_corpus_score = 0.372	ChrF_corpus_score = 0.595	
+Flores200	eng_to_egy	SpBLEU_corpus_score = 0.201	ChrF_corpus_score = 0.388	
+Flores200	eng_to_sau	SpBLEU_corpus_score = 0.271	ChrF_corpus_score = 0.453	
+Flores200	eng_to_syr	SpBLEU_corpus_score = 0.226	ChrF_corpus_score = 0.433	
+Flores200	eng_to_mar	SpBLEU_corpus_score = 0.14	ChrF_corpus_score = 0.34	
+Flores200	eng_to_pse	SpBLEU_corpus_score = 0.243	ChrF_corpus_score = 0.447	
+Flores200	egy_to_msa	SpBLEU_corpus_score = 0.439	ChrF_corpus_score = 0.585	
+Flores200	sau_to_msa	SpBLEU_corpus_score = 0.911	ChrF_corpus_score = 0.932	
+Flores200	syr_to_msa	SpBLEU_corpus_score = 0.334	ChrF_corpus_score = 0.517	
+Flores200	mar_to_msa	SpBLEU_corpus_score = 0.293	ChrF_corpus_score = 0.459	
+Flores200	pse_to_msa	SpBLEU_corpus_score = 0.354	ChrF_corpus_score = 0.529	
+Flores200	msa_to_egy	SpBLEU_corpus_score = 0.402	ChrF_corpus_score = 0.555	
+Flores200	msa_to_sau	SpBLEU_corpus_score = 0.829	ChrF_corpus_score = 0.877	
+Flores200	msa_to_syr	SpBLEU_corpus_score = 0.311	ChrF_corpus_score = 0.507	
+Flores200	msa_to_mar	SpBLEU_corpus_score = 0.222	ChrF_corpus_score = 0.408	
+Flores200	msa_to_pse	SpBLEU_corpus_score = 0.331	ChrF_corpus_score = 0.523	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ acegpt_mt ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Madar26	dza_to_eng	SpBLEU_corpus_score = 0.167	ChrF_corpus_score = 0.401	
+Madar26	egy_to_eng	SpBLEU_corpus_score = 0.178	ChrF_corpus_score = 0.436	
+Madar26	sau_to_eng	SpBLEU_corpus_score = 0.174	ChrF_corpus_score = 0.463	
+Madar26	syr_to_eng	SpBLEU_corpus_score = 0.164	ChrF_corpus_score = 0.421	
+Madar26	mar_to_eng	SpBLEU_corpus_score = 0.172	ChrF_corpus_score = 0.424	
+Madar26	pse_to_eng	SpBLEU_corpus_score = 0.215	ChrF_corpus_score = 0.436	
+Madar26	sdn_to_eng	SpBLEU_corpus_score = 0.305	ChrF_corpus_score = 0.527	
+Madar26	eng_to_dza	SpBLEU_corpus_score = 0.023	ChrF_corpus_score = 0.123	
+Madar26	eng_to_egy	SpBLEU_corpus_score = 0.028	ChrF_corpus_score = 0.143	
+Madar26	eng_to_sau	SpBLEU_corpus_score = 0.036	ChrF_corpus_score = 0.171	
+Madar26	eng_to_syr	SpBLEU_corpus_score = 0.024	ChrF_corpus_score = 0.142	
+Madar26	eng_to_mar	SpBLEU_corpus_score = 0.017	ChrF_corpus_score = 0.097	
+Madar26	eng_to_pse	SpBLEU_corpus_score = 0.021	ChrF_corpus_score = 0.115	
+Madar26	eng_to_sdn	SpBLEU_corpus_score = 0.028	ChrF_corpus_score = 0.137	
+Madar26	dza_to_msa	SpBLEU_corpus_score = 0.032	ChrF_corpus_score = 0.15	
+Madar26	egy_to_msa	SpBLEU_corpus_score = 0.039	ChrF_corpus_score = 0.144	
+Madar26	sau_to_msa	SpBLEU_corpus_score = 0.05	ChrF_corpus_score = 0.197	
+Madar26	syr_to_msa	SpBLEU_corpus_score = 0.034	ChrF_corpus_score = 0.13	
+Madar26	mar_to_msa	SpBLEU_corpus_score = 0.038	ChrF_corpus_score = 0.133	
+Madar26	pse_to_msa	SpBLEU_corpus_score = 0.034	ChrF_corpus_score = 0.106	
+Madar26	sdn_to_msa	SpBLEU_corpus_score = 0.048	ChrF_corpus_score = 0.145	
+Madar26	msa_to_dza	SpBLEU_corpus_score = 0.036	ChrF_corpus_score = 0.212	
+Madar26	msa_to_egy	SpBLEU_corpus_score = 0.051	ChrF_corpus_score = 0.241	
+Madar26	msa_to_sau	SpBLEU_corpus_score = 0.066	ChrF_corpus_score = 0.277	
+Madar26	msa_to_syr	SpBLEU_corpus_score = 0.05	ChrF_corpus_score = 0.236	
+Madar26	msa_to_mar	SpBLEU_corpus_score = 0.055	ChrF_corpus_score = 0.244	
+Madar26	msa_to_pse	SpBLEU_corpus_score = 0.05	ChrF_corpus_score = 0.234	
+Madar26	msa_to_sdn	SpBLEU_corpus_score = 0.061	ChrF_corpus_score = 0.269	
+
+----------------------------------------------------------------------
+
+Flores200	egy_to_eng	SpBLEU_corpus_score = 0.24	ChrF_corpus_score = 0.519	
+Flores200	sau_to_eng	SpBLEU_corpus_score = 0.289	ChrF_corpus_score = 0.564	
+Flores200	syr_to_eng	SpBLEU_corpus_score = 0.279	ChrF_corpus_score = 0.543	
+Flores200	mar_to_eng	SpBLEU_corpus_score = 0.184	ChrF_corpus_score = 0.461	
+Flores200	pse_to_eng	SpBLEU_corpus_score = 0.304	ChrF_corpus_score = 0.569	
+Flores200	eng_to_egy	SpBLEU_corpus_score = 0.069	ChrF_corpus_score = 0.162	
+Flores200	eng_to_sau	SpBLEU_corpus_score = 0.105	ChrF_corpus_score = 0.191	
+Flores200	eng_to_syr	SpBLEU_corpus_score = 0.067	ChrF_corpus_score = 0.162	
+Flores200	eng_to_mar	SpBLEU_corpus_score = 0.021	ChrF_corpus_score = 0.051	
+Flores200	eng_to_pse	SpBLEU_corpus_score = 0.045	ChrF_corpus_score = 0.104	
+Flores200	egy_to_msa	SpBLEU_corpus_score = 0.063	ChrF_corpus_score = 0.082	
+Flores200	sau_to_msa	SpBLEU_corpus_score = 0.275	ChrF_corpus_score = 0.278	
+Flores200	syr_to_msa	SpBLEU_corpus_score = 0.079	ChrF_corpus_score = 0.117	
+Flores200	mar_to_msa	SpBLEU_corpus_score = 0.044	ChrF_corpus_score = 0.061	
+Flores200	pse_to_msa	SpBLEU_corpus_score = 0.084	ChrF_corpus_score = 0.127	
+Flores200	msa_to_egy	SpBLEU_corpus_score = 0.277	ChrF_corpus_score = 0.381	
+Flores200	msa_to_sau	SpBLEU_corpus_score = 0.521	ChrF_corpus_score = 0.543	
+Flores200	msa_to_syr	SpBLEU_corpus_score = 0.227	ChrF_corpus_score = 0.359	
+Flores200	msa_to_mar	SpBLEU_corpus_score = 0.137	ChrF_corpus_score = 0.233	
+Flores200	msa_to_pse	SpBLEU_corpus_score = 0.189	ChrF_corpus_score = 0.284	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~ command_r+_monolingual-5-shot ~~~~~~~~~~~~~~~~~~~~
+
+BTEC	dza	score = 0.22	prob = 0.336	dialectness = 0.483	macro_score = 0.356	
+BTEC	egy	score = 0.238	prob = 0.414	dialectness = 0.378	macro_score = 0.245	
+BTEC	sau	score = 0.037	prob = 0.115	dialectness = 0.235	macro_score = 0.103	
+BTEC	syr	score = 0.189	prob = 0.284	dialectness = 0.523	macro_score = 0.435	
+
+----------------------------------------------------------------------
+
+FLORES	egy	score = 0.209	prob = 0.394	dialectness = 0.27	macro_score = 0.212	
+FLORES	sau	score = 0.003	prob = 0.05	dialectness = 0.074	macro_score = 0.027	
+FLORES	syr	score = 0.075	prob = 0.168	dialectness = 0.281	macro_score = 0.207	
+
+----------------------------------------------------------------------
+
+HABIBI	dza	score = 0.116	prob = 0.22	dialectness = 0.425	macro_score = 0.23	
+HABIBI	egy	score = 0.301	prob = 0.472	dialectness = 0.492	macro_score = 0.302	
+HABIBI	sau	score = 0.01	prob = 0.048	dialectness = 0.235	macro_score = 0.13	
+HABIBI	syr	score = 0.069	prob = 0.127	dialectness = 0.422	macro_score = 0.208	
+
+----------------------------------------------------------------------
+
+TWEET	dza	score = 0.322	prob = 0.499	dialectness = 0.514	macro_score = 0.427	
+TWEET	egy	score = 0.331	prob = 0.47	dialectness = 0.45	macro_score = 0.333	
+TWEET	sau	score = 0.099	prob = 0.32	dialectness = 0.275	macro_score = 0.191	
+TWEET	syr	score = 0.225	prob = 0.519	dialectness = 0.406	macro_score = 0.366	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~ command_r+_base_monolingual-5-shot ~~~~~~~~~~~~~~~~~~
+
+BTEC	dza	score = 0.297	prob = 0.367	dialectness = 0.738	macro_score = 0.602	
+BTEC	egy	score = 0.5	prob = 0.633	dialectness = 0.778	macro_score = 0.502	
+BTEC	sau	score = 0.06	prob = 0.095	dialectness = 0.604	macro_score = 0.302	
+BTEC	syr	score = 0.177	prob = 0.224	dialectness = 0.748	macro_score = 0.631	
+
+----------------------------------------------------------------------
+
+FLORES	egy	score = 0.393	prob = 0.587	dialectness = 0.612	macro_score = 0.396	
+FLORES	sau	score = 0.007	prob = 0.023	dialectness = 0.296	macro_score = 0.071	
+FLORES	syr	score = 0.073	prob = 0.16	dialectness = 0.472	macro_score = 0.414	
+
+----------------------------------------------------------------------
+
+HABIBI	dza	score = 0.257	prob = 0.319	dialectness = 0.752	macro_score = 0.579	
+HABIBI	egy	score = 0.51	prob = 0.641	dialectness = 0.731	macro_score = 0.513	
+HABIBI	sau	score = 0.021	prob = 0.046	dialectness = 0.569	macro_score = 0.255	
+HABIBI	syr	score = 0.124	prob = 0.153	dialectness = 0.766	macro_score = 0.632	
+
+----------------------------------------------------------------------
+
+TWEET	dza	score = 0.493	prob = 0.593	dialectness = 0.777	macro_score = 0.649	
+TWEET	egy	score = 0.538	prob = 0.643	dialectness = 0.774	macro_score = 0.539	
+TWEET	sau	score = 0.146	prob = 0.226	dialectness = 0.587	macro_score = 0.381	
+TWEET	syr	score = 0.315	prob = 0.481	dialectness = 0.658	macro_score = 0.602	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~~~~ command_r+_crosslingual-5-shot ~~~~~~~~~~~~~~~~~~~~
+
+HEHE	dza	score = 0.161	prob = 0.261	dialectness = 0.301	macro_score = 0.256	
+HEHE	egy	score = 0.382	prob = 0.622	dialectness = 0.465	macro_score = 0.39	
+HEHE	sau	score = 0.042	prob = 0.093	dialectness = 0.236	macro_score = 0.129	
+HEHE	syr	score = 0.224	prob = 0.394	dialectness = 0.368	macro_score = 0.347	
+
+----------------------------------------------------------------------
+
+Okapi	dza	score = 0.181	prob = 0.347	dialectness = 0.361	macro_score = 0.316	
+Okapi	egy	score = 0.41	prob = 0.767	dialectness = 0.459	macro_score = 0.418	
+Okapi	sau	score = 0.021	prob = 0.072	dialectness = 0.19	macro_score = 0.104	
+Okapi	syr	score = 0.199	prob = 0.513	dialectness = 0.307	macro_score = 0.288	
+
+----------------------------------------------------------------------
+
+ShareGPT	dza	score = 0.168	prob = 0.359	dialectness = 0.326	macro_score = 0.285	
+ShareGPT	egy	score = 0.386	prob = 0.752	dialectness = 0.457	macro_score = 0.388	
+ShareGPT	sau	score = 0.024	prob = 0.116	dialectness = 0.215	macro_score = 0.12	
+ShareGPT	syr	score = 0.166	prob = 0.424	dialectness = 0.33	macro_score = 0.308	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+
+~~~~~~~~~~~~~~~~~ command_r+_base_crosslingual-5-shot ~~~~~~~~~~~~~~~~~
+
+HEHE	dza	score = 0.104	prob = 0.193	dialectness = 0.272	macro_score = 0.179	
+HEHE	egy	score = 0.341	prob = 0.518	dialectness = 0.423	macro_score = 0.343	
+HEHE	sau	score = 0.04	prob = 0.102	dialectness = 0.216	macro_score = 0.121	
+HEHE	syr	score = 0.113	prob = 0.19	dialectness = 0.286	macro_score = 0.244	
+
+----------------------------------------------------------------------
+
+Okapi	dza	score = 0.134	prob = 0.268	dialectness = 0.279	macro_score = 0.213	
+Okapi	egy	score = 0.328	prob = 0.642	dialectness = 0.372	macro_score = 0.328	
+Okapi	sau	score = 0.017	prob = 0.063	dialectness = 0.172	macro_score = 0.069	
+Okapi	syr	score = 0.106	prob = 0.218	dialectness = 0.296	macro_score = 0.258	
+
+----------------------------------------------------------------------
+
+ShareGPT	dza	score = 0.131	prob = 0.216	dialectness = 0.402	macro_score = 0.265	
+ShareGPT	egy	score = 0.315	prob = 0.586	dialectness = 0.46	macro_score = 0.316	
+ShareGPT	sau	score = 0.035	prob = 0.123	dialectness = 0.271	macro_score = 0.142	
+ShareGPT	syr	score = 0.128	prob = 0.257	dialectness = 0.364	macro_score = 0.346	
+
+----------------------------------------------------------------------
+
+######################################################################
+######################################################################
+

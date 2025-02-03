@@ -1,0 +1,301 @@
+Unnamed: 0,Prompt,Completion,Model,Dialect,Adequacy,Fluency,Dialectal Accuracy,TVD,Copy
+0,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+This can be easily done by using a relatively quiet alarm clock to bring you to consciousness without fully waking you.
+Translation:",هالشي فيك تعمله بسهولة باستخدام منبه هادي نسبياً ليخليك توعى بدون ما تصحى بشكل كامل.,gpt-4o,syr,5,5,4,0.4328104371175811,False
+1,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Written on the back of the Declaration of Independence were the words ""Original Declaration of Independence dated 4th July 1776"". The text appears on the bottom of the document, upside down.
+Translation:","مكتوب على ظهر إعلان الاستقلال الكلمات ""إعلان الاستقلال الأصلي بتاريخ 4 تموز 1776"". النص يظهر في أسفل الوثيقة بالمقلوب.",gpt-4o,syr,4,5,3,8.101831518170233e-06,False
+2,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Looking decidedly rusty in the game against their southern sisters, South Africa however steadily improved as the tournament progressed.
+Translation:",بدت جنوب أفريقيا صدئة بشكل واضح في المباراة ضد شقيقاتها الجنوبيات، لكنها تحسنت بشكل مطرد مع تقدم البطولة.,command_r+,syr,2,5,1,0.0,False
+3,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+While one experimental vaccine appears able to reduce Ebola mortality, up until now, no drugs have been clearly demonstrated suitable for treating existing infection.
+Translation:",على الرغم من أن أحد اللقاحات التجريبية يبدو قادراً على خفض معدل الوفيات بسبب الإيبولا، إلا أنه لم يتم حتى الآن إثبات ملاءمة أي دواء بشكل واضح لعلاج العدوى الموجودة.,command_r+,syr,5,4,1,0.0,False
+4,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Across the United States of America, there are approximately 400,000 known cases of Multiple Sclerosis (MS), leaving it as the leading neurological disease in younger and middle aged adults.
+Translation:","في جميع أنحاء الولايات المتحدة الأمريكية، هناك حوالي ٤٠٠,٠٠٠ حالة معروفة من التصلب المتعدد (MS)، مما يجعله المرض العصبي الرائد بين البالغين الشباب ومتوسطي العمر.",gpt-4o,syr,4,4,1,0.0,False
+5,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Majorcan cuisine, like that of similar zones in the Mediterranean, is based on bread, vegetables and meat (specially pork), and uses olive oil throughout.
+Translation:",يستند المطبخ المايوركي، مثل مطابخ المناطق المشابهة في البحر الأبيض المتوسط، إلى الخبز والخضروات واللحوم (خاصة لحم الخنزير)، ويستخدم زيت الزيتون في جميع الأطباق.,command_r+,syr,4,5,1,0.0,False
+6,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Technology offers the solution with virtual field trips. Students can look at museum artifacts, visit an aquarium, or admire beautiful art while sitting with their class.
+Translation:",بتقدم التكنولوجيا الحل من خلال الرحلات الميدانية الافتراضية. بيقدر الطلاب يشوفوا القطع الأثرية في المتحف، أو يزوروا حوض أسماك، أو يتعجبوا من الفن الجميل، وكل هاد وهن قاعدين مع صفهم.,command_r+,syr,4,4,3,0.1430206527957622,False
+7,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+However, due to the slow communication channels, styles in the west could lag behind by 25 to 30 year.
+Translation:",ومع ذلك، وبسبب بطء قنوات الاتصال، فقد تتخلف الأنماط في الغرب عن الركب بما يتراوح بين 25 و30 عامًا.,command_r+,syr,5,5,1,0.0,False
+8,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+A search of the Internet for 'Hostile environment course' will probably provide the address of a local company.
+Translation:","البحث على الإنترنت عن ""دورة بيئة عدائية"" من المحتمل أن يوفر عنوان شركة محلية.",gpt-4o,syr,5,5,1,0.0,False
+9,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Coalition and Afghan troops moved into the area to secure the site and other coalition aircraft have been sent to assist.
+Translation:",تحركت القوات الأفغانية وقوات التحالف إلى المنطقة لتأمين الموقع، كما أرسلت طائرات أخرى تابعة للتحالف للمساعدة.,command_r+,syr,5,5,1,0.0,False
+10,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The composition of these crystals matches those found in the urine of affected pets when compared by infrared spectroscopy (FTIR).
+Translation:",تركيب هالكريستالات بيطابق اللي موجودين ببول الحيوانات الأليفة المصابة لما يقارنوا بتحليل الطيف بالأشعة تحت الحمراء (FTIR).,gpt-4o,syr,5,5,5,0.0114343242512789,False
+11,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The cities of Harappa and Mohenjo-daro had a flush toilet in almost every house, attached to a sophisticated sewage system.
+Translation:",مدينتي هارابا وموهينجو-دارو كان عندهم مرحاض في كل بيت تقريبًا، مربوط بنظام صرف صحي متطور.,gpt-4o,syr,5,5,3,8.587315600753868e-05,False
+12,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The Sundarbans has been declared a UNESCO World Heritage Site. The part of the forest within Indian territory is called Sundarbans National Park.
+Translation:",لقد تم إعلان منطقة سونداربانس موقعاً للتراث العالمي من قبل اليونسكو. ويطلق على الجزء الواقع من الغابة ضمن الأراضي الهندية اسم حديقة سونداربانس الوطنية.,command_r+,syr,5,4,1,0.0,False
+13,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+This seems sensible, because the Earth doesn't feel as if it's moving, does it?
+Translation:",هالشي منطقي، لأن الأرض ما بتحس إنها عم تتحرك، مو هيك؟,gpt-4o,syr,5,5,5,0.7466801402209171,False
+14,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+he cave itself, which survived the times, gives a very vivid image of Muhammad’s spiritual inclinations.
+Translation:",تُعطي الكهف بحد ذاته، الذي صمد أمام تقلبات الزمن، صورةً حيةً جداً عن الميول الروحية لمحمد.,command_r+,syr,4,5,1,0.0,False
+15,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Written on the back of the Declaration of Independence were the words ""Original Declaration of Independence dated 4th July 1776"". The text appears on the bottom of the document, upside down.
+Translation:","كُتِبَ على ظهر إعلان الاستقلال ما يلي: ""إعلان الاستقلال الأصلي بتاريخ 4 يوليو 1776"". ويظهر النص في أسفل الوثيقة، مقلوباً.",command_r+,syr,4,5,1,0.0006467716594446,False
+16,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Christmas is one of the most important holidays of Christianity, and is celebrated as the birthday of Jesus.
+Translation:",عيد الميلاد هو أحد أهم الأعياد في الديانة المسيحية، ويُحتفل به على أنه يوم ميلاد يسوع.,command_r+,syr,5,5,1,0.0,False
+17,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+According to police, the driver of the vehicle that hit the photographer is unlikely to face criminal charges.
+Translation:",وفقاً للشرطة، من غير المرجح أن يواجه سائق السيارة التي صدمت المصور اتهامات جنائية.,command_r+,syr,5,5,1,0.0,False
+18,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+While Goma is reasonably safe, any visits outside of Goma should be researched to understand the state of the fighting that persists in the North Kivu province.
+Translation:",بينما غوما آمنة بشكل معقول، يجب البحث عن أي زيارات خارج غوما لفهم حالة القتال المستمر في مقاطعة شمال كيفو.,gpt-4o,syr,4,5,1,0.0,False
+19,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+We perceive the Foster Care System to be a safety zone for these children.
+Translation:",نحن نعتبر نظام الرعاية البديلة منطقة أمان لهؤلاء الأطفال.,gpt-4o,syr,5,5,1,0.0,False
+20,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Montevideo is in the subtropics; in the summer months, temperatures above +30°C are common.
+Translation:",مونتفيدو تقع في المنطقة شبه الاستوائية؛ وخلال أشهر الصيف، من الشائع أن ترتفع درجات الحرارة فوق 30 درجة مئوية.,command_r+,syr,5,4,1,0.0,False
+21,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The largest tournament of the year takes place in December at the polo fields in Las Cañitas.
+Translation:",أكبر بطولات العام تجري في كانون الأول/ديسمبر في ملاعب البولو في لاس كانيتاس.,command_r+,syr,5,4,1,0.0,False
+22,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Deputy Inspector General D K Arya said, ""We have arrested five persons who raped the Swiss woman and recovered her mobile and laptop"".
+Translation:","قال نائب المفتش العام دي كيه آريا، ""لقد ألقينا القبض على خمسة أشخاص اغتصبوا المرأة السويسرية واستعدنا هاتفها المحمول وجهاز الكمبيوتر المحمول"".",gpt-4o,syr,5,5,1,8.333956229080244e-05,False
+23,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Coalition and Afghan troops moved into the area to secure the site and other coalition aircraft have been sent to assist.
+Translation:",تحركت قوات التحالف والأفغانية إلى المنطقة لتأمين الموقع وتم إرسال طائرات أخرى من التحالف للمساعدة.,gpt-4o,syr,5,4,1,0.0,False
+24,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+In the PALM trial, ZMapp served as a control, meaning scientists used it as a baseline and compared the three other treatments to it.
+Translation:",فِي مُحَاكَاةِ PALM، كَانَ زِمَابْ بِمَثَابَةِ ضَابِطٍ، مَعْنَى ذَلِكَ أَنَّ العُلَمَاءَ اسْتَخْدَمُوهُ كَخَطِّ أَسَاسٍ وَقَامُوا بِمُقَارَنَةِ العِلَاجَاتِ الثَّلَاثَةِ الأُخْرَى بِهِ.,command_r+,syr,5,5,1,0.000289098835563,False
+25,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+When you went abroad at first, people were probably patient and understanding, knowing that travellers in a new country need to adapt.
+Translation:",عندما سافرت إلى الخارج في البداية، كان الناس على الأرجح صبورين ومتفهمين، مدركين أن المسافرين في بلد جديد يحتاجون إلى التكيف.,command_r+,syr,5,4,1,1.4116728915606476e-05,False
+26,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Most of the distinct Baltic Cruises feature an extended stay in St. Petersburg, Russia.
+Translation:",معظم رحلات البلطيق المميزة تتضمن إقامة ممتدة في سانت بطرسبرغ، روسيا.,gpt-4o,syr,5,5,1,0.0,False
+27,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Their predecessors, the Australopithecus did not walk upright as habitually.
+Translation:",لم يكن أسلافهم، الأسترالوبيثكس، يمشون منتصبين بشكل معتاد.,command_r+,syr,5,4,1,0.0001279434170633,False
+28,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+If you visit the Arctic or Antarctic areas in the winter you will experience the polar night, which means that the sun doesn't rise above the horizon.
+Translation:",إذا زرت المناطق القطبية الشمالية أو الجنوبية في الشتاء، رح تختبر الليل القطبي، يعني الشمس ما بتطلع فوق الأفق.,gpt-4o,syr,4,4,3,0.0132706271768512,False
+29,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+A moderate earthquake shook western Montana at 10:08 p.m. on Monday.
+Translation:",هز زلزال متوسط غرب مونتانا في الساعة 10:08 مساء يوم الاثنين.,command_r+,syr,5,5,1,0.0,False
+30,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Backpacking by ski: This activity is also called backcountry ski, ski touring or ski hiking.
+Translation:",التزلج على الظهر: هالنشاط بيسموه كمان التزلج البري، التزلج السياحي أو التنزه بالتزلج.,gpt-4o,syr,4,5,3,0.3009465438683634,False
+31,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+It is helpful to also wear a ring (just not one that looks too expensive.
+Translation:",مفيد كمان تلبس خاتم (بس مو واحد شكله كتير غالي).,gpt-4o,syr,5,5,5,0.7807286135223279,False
+32,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+When completely brought up by non-human animals, the feral child exhibits behaviors (within physical limits) almost entirely like those of the particular care-animal, such as its fear of or indifference to humans.
+Translation:",لما بيتربى الطفل الوحشي بشكل كامل من حيوانات مش بشرية، بيظهر سلوكيات (ضمن الحدود الجسدية) تقريباً مثل سلوك الحيوان اللي اعتنى فيه، مثل خوفه من البشر أو عدم اكتراثه لهم.,gpt-4o,syr,4,4,3,0.010465298496447,False
+33,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Another difference was that while the poor people and the woman ate their food while sitting in chairs, the rich men liked to have banquets together where they would lounge on their sides while they ate their meals.
+Translation:",فرق تاني كان إنو بينما الفقراء والنساء بيأكلوا أكلهم وهني قاعدين عالكراسي، الرجال الأغنياء كانوا بيحبوا يعملوا ولائم سوا ويتمدوا على جنبهم وهني عم ياكلوا وجباتهم.,gpt-4o,syr,5,5,3,0.026770529364164,False
+34,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Since Montevideo is south of the Equator, it is summer there when it's winter in the Northern Hemisphere and vice versa.
+Translation:",منذ أن كانت مونتفيدو جنوب خط الاستواء، فإنها تشهد صيفاً عندما يكون الشتاء في نصف الكرة الشمالي والعكس صحيح.,command_r+,syr,4,5,1,0.0,False
+35,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Remains of sewage systems have been found in the houses of the Minoan cities of Crete and Santorini in Greece.
+Translation:",عُثر على بقايا أنظمة الصرف الصحي في منازل المدن المينوسية في كريت وسانتوريني في اليونان.,command_r+,syr,5,5,1,7.398223087289046e-05,False
+36,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Backpacking by ski: This activity is also called backcountry ski, ski touring or ski hiking.
+Translation:",التنقل على الأقدام باستخدام الزلاجات: يُطلق على هذا النشاط أيضًا اسم التزلج في البلاد، أو التزلج على الجليد، أو المشي باستخدام الزلاجات.,command_r+,syr,4,5,1,6.605732720123313e-05,False
+37,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Ancient Roman meals couldn't have included foods that came to Europe from America or from Asia in later centuries.
+Translation:",ما كان بإمكان الوجبات الرومانية القديمة أن تتضمن أطعمةً جاءت إلى أوروبا من أمريكا أو آسيا في القرون اللاحقة.,command_r+,syr,5,4,1,0.0005310289163448,False
+38,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The idea of skiing is very old — cave paintings depicting skiers date back as far as 5000 BC!
+Translation:",فكرة التزلج قديمة جداً - تعود الرسومات الكهفية التي تصور المتزلجين إلى 5000 قبل الميلاد!,command_r+,syr,5,4,1,0.0100951502004648,False
+39,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The hot chocolate is up to Belgian standards. Fruit juices are pricey but excellent.
+Translation:",الشوكولاتة الساخنة بمستوى المعايير البلجيكية. عصائر الفواكه غالية لكن ممتازة.,gpt-4o,syr,5,5,3,0.0001517000572957,False
+40,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Over four million people went to Rome to attend the funeral.
+Translation:",أكثر من أربعة ملايين شخص ذهبوا إلى روما لحضور الجنازة.,gpt-4o,syr,5,5,1,0.0,False
+41,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The Report opens with plea for open debate and the formation of a consensus in the United States about the policy towards the Middle East.
+Translation:",التقرير يبدأ بنداء للنقاش المفتوح وتشكيل توافق في الولايات المتحدة بشأن السياسة تجاه الشرق الأوسط.,gpt-4o,syr,5,4,1,0.0,False
+42,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Children are placed in Foster Care for a wide variety of reasons that range from neglect, to abuse, and even to extortion.
+Translation:",يُودَعُ الأَطْفَالُ فِي رِعَايَةِ كَافِلٍ لِطَيْفٍ وَاسِعٍ مِنَ الأَسْبَابِ الَّتِي تَتَرَاوَحُ مِنْ الإِهْمَالِ، إِلَى الإِيذَاءِ، وَحَتَّى الاِبْتِزَازِ.,command_r+,syr,5,5,1,0.0,False
+43,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+In the churchyard, there are interesting marble sculptures of doves over some tombs.
+Translation:",في ساحة الكنيسة، هناك منحوتات رخامية مثيرة للاهتمام للحمام فوق بعض القبور.,gpt-4o,syr,5,4,1,0.0,False
+44,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+With Kundalini Yoga the Kundalini energy (enlightenment energy) is awakened through yoga postures, breathing exercises, mantras and visualizations.
+Translation:",مع اليوغا الكونداليني، يتم إيقاظ طاقة الكونداليني (طاقة التنوير) من خلال وضعيات اليوغا، تمارين التنفس، المانترا والتصورات.,gpt-4o,syr,5,4,1,0.0003635939996383,False
+45,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+When you went abroad at first, people were probably patient and understanding, knowing that travellers in a new country need to adapt.
+Translation:",لما سافرت لأول مرة، الناس كانوا على الأغلب صبورين ومتفاهمين، عارفين إنو المسافرين ببلد جديد لازم يتأقلموا.,gpt-4o,syr,5,5,3,0.2855705550929119,False
+46,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Gothic style peaked in the period between the 10th - 11th centuries and the 14th century.
+Translation:",وصل الطراز القوطي إلى ذروته في الفترة بين القرنين العاشر والحادي عشر والقرن الرابع عشر.,gpt-4o,syr,5,5,1,0.0003221698665625,False
+47,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+This is just like symptomatic treatment in many cases. However, if we do not only want a temporary solution, then we should find the root of the problems, and we should deactivate them.
+Translation:",هاد متل العلاج العرضي بحالات كتيرة. بس إذا ما بدنا حل مؤقت بس، لازم نلاقي جذر المشاكل، ولازم نعطلها.,gpt-4o,syr,4,4,3,0.836667653583234,False
+48,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Be firm in turning down men, and don't be afraid to stand your ground (cultural differences or not, it doesn't make it ok!).
+Translation:",كوني حازمة في رفض الرجال، ولا تخافي من التمسك بموقفك (سواء كانت هناك اختلافات ثقافية أم لا، فهذا لا يجعل الأمر مقبولاً!).,command_r+,syr,5,5,1,0.0001936191638173,False
+49,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+It was ruled by the ""Vichy"" French. These were French people who had made peace with the Germans in 1940 and worked with the invaders instead of fighting them.
+Translation:","كانت تحت حكم الفرنسيين ""فيشي"". وكان هؤلاء فرنسيون عقدوا صلحاً مع الألمان عام 1940 وعملوا مع الغزاة بدلاً من محاربتهم.",command_r+,syr,5,3,1,0.0,False
+50,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Lion prides act much like packs of wolves or dogs, animals surprisingly similar to lions (but not other big cats) in behavior, and also very deadly to their prey.
+Translation:",أسراب الأسود تتصرف بشكل مشابه جدًا لقطعان الذئاب أو الكلاب، وهي حيوانات تشبه الأسود بشكل مدهش (لكن ليس القطط الكبيرة الأخرى) في السلوك، وهي أيضًا مميتة جدًا لفريستها.,gpt-4o,syr,4,3,1,0.0,False
+51,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+As knowledge of Greek declined, the West found itself cut off from its Greek philosophical and scientific roots.
+Translation:",مع تراجع المعرفة باليونانية، وجد الغرب نفسه منقطعاً عن جذوره الفلسفية والعلمية اليونانية.,command_r+,syr,5,5,1,0.0,False
+52,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+In a carriage, they traveled back to Paris surrounded by a mob of people screaming and shouting threats against the King and Queen.
+Translation:",بالعربة، رجعوا على باريس محاطين بحشد من الناس عم يصرخوا ويهددوا الملك والملكة.,gpt-4o,syr,5,4,3,0.5735240761218563,False
+53,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Fears of lack of transportation raised the possibility that the game would be forced to play behind closed doors without the team's supporters.
+Translation:",أثارت المخاوف من نقص وسائل النقل احتمال أن تجبر المباراة على اللعب خلف أبواب مغلقة دون مشجعي الفريق.,command_r+,syr,4,3,1,0.0,False
+54,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Poland's men's visually impaired skier Maciej Krezel and guide Anna Ogarzynska finished thirteenth in the Super-G. South Korea's Jong Seork Park finished twenty-fourth in the men's sitting Super-G.
+Translation:",أنهى متزلج التزلج المنحدر البولندي، ماسييج كرزيل، ومرشده أننا أوغارزينسكا، السباق في المركز الثالث عشر. وحل جونغ سيوك بارك من كوريا الجنوبية في المركز الرابع والعشرين في سباق التزلج المنحدر للرجال جلوساً.,command_r+,syr,4,4,1,0.0,False
+55,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+In many cases, enrolling on a gap-year course abroad can actually improve your chances of moving into higher education back in your home country.
+Translation:",في العديد من الحالات، يمكن أن يؤدي التسجيل في دورة دراسية خلال سنة تفرغ في الخارج إلى تحسين فرصك في الالتحاق بالتعليم العالي عند عودتك إلى بلدك الأم.,command_r+,syr,4,5,1,0.0,False
+56,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+For example, each year students from Bennet School in North Carolina design a website about their trip to the State Capital, each year the website gets remodeled, but old versions are kept online to serve as a scrapbook.
+Translation:",كل سنة الطلاب من مدرسة بينيت في نورث كارولاينا بيصمموا موقع عن رحلتهم لعاصمة الولاية، وكل سنة الموقع بيتجدد، بس النسخ القديمة بتضل موجودة على الإنترنت كألبوم ذكريات.,gpt-4o,syr,4,5,4,0.0075069433441666,False
+57,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The only way to get it through faster was to send it as checked luggage. Airline regulations will not allow them to send luggage without a passenger, which is where you come in.
+Translation:",الطريقة الوحيدة لتوصيله أسرع كانت إرساله كأمتعة مفحوصة. قوانين الطيران لا تسمح لهم بإرسال الأمتعة بدون راكب، وهون بيجي دورك.,gpt-4o,syr,5,4,2,0.010014162592383,False
+58,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Tommy Dreamer said ""Luna was the first Queen of Extreme. My first manager. Luna passed away on the night of two moons. Pretty unique just like her. Strong woman.""
+Translation:","تومي دريمر قال ""لونا كانت أول ملكة للأكستريم. أول مديرة لي. لونا توفت في ليلة القمرين. شيء مميز مثلها. امرأة قوية.""",gpt-4o,syr,5,5,1,7.887088774936532e-05,False
+59,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The 35mm format is actually, somewhat confusingly, 36mm in width by 24mm in height.
+Translation:",يبلغ عرض قياس 35 ملم، وهو أمر مربك إلى حد ما، 36 ملم وارتفاعه 24 ملم.,command_r+,syr,4,3,1,0.0,False
+60,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Workplace harmony is crucial, emphasizing group effort rather than praising individual accomplishments.
+Translation:",يُعد الوئام في مكان العمل أمرًا بالغ الأهمية، حيث يركز على الجهد الجماعي بدلاً من الإشادة بالإنجازات الفردية.,command_r+,syr,5,4,1,0.0,False
+61,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Since Montevideo is south of the Equator, it is summer there when it's winter in the Northern Hemisphere and vice versa.
+Translation:",بما أن مونتيفيديو تقع جنوب خط الاستواء، يكون الصيف هناك عندما يكون الشتاء في نصف الكرة الشمالي والعكس صحيح.,gpt-4o,syr,5,5,1,6.62661610795149e-05,False
+62,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+It can be made very thin, and stuck onto other metal. It can be made so thin that it was sometimes used to decorate the hand-painted pictures in books called ""illuminated manuscripts"".
+Translation:","ممكن ينصنع رقيق كتير، وينلصق على معادن تانية. ممكن ينصنع رقيق لدرجة إنه أحياناً كان يستخدم لتزيين الصور المرسومة باليد في الكتب اللي اسمها ""مخطوطات مضيئة"".",gpt-4o,syr,5,5,4,0.0191866015018122,False
+63,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+After the dam was built in 1963, the seasonal floods that would spread sediment throughout the river were halted.
+Translation:",بعد بناء السد في عام 1963، توقفت الفيضانات الموسمية التي كانت تنتشر منها الرواسب في النهر.,command_r+,syr,5,4,1,0.0,False
+64,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+During the Revolutionary War, the thirteen states first formed a weak central government—with the Congress being its only component—under the Articles of Confederation.
+Translation:",خلال الحرب الثورية، شكلت الولايات الثلاث عشرة أولاً حكومة مركزية ضعيفة - الكونغرس هو مكونها الوحيد - بموجب مواد الاتحاد.,command_r+,syr,4,5,1,0.0,False
+65,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Books and magazines dealing with wilderness survival are common, but publications dealing with war zones are few.
+Translation:",الكتب والمجلات التي تتعامل مع البقاء في البرية شائعة، لكن المنشورات التي تتعامل مع مناطق الحرب قليلة.,gpt-4o,syr,4,5,1,0.0,False
+66,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The D-Day landings and the following battles had freed the north of France, but the south still wasn't free.
+Translation:",لقد حررت عمليات الإنزال في يوم النصر والمعارك التي تلتها شمال فرنسا، لكن الجنوب لم يتحرر بعد.,command_r+,syr,5,5,1,0.0,False
+67,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Ancient Roman meals couldn't have included foods that came to Europe from America or from Asia in later centuries.
+Translation:",الوجبات الرومانية القديمة ما كان ممكن تتضمن أطعمة إجت لأوروبا من أمريكا أو من آسيا بالقرون اللاحقة.,gpt-4o,syr,5,5,4,0.1039323155725853,False
+68,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+A car bomb detonated at police headquarters in Gaziantep, Turkey yesterday morning killed two police officers and injured more than twenty other people.
+Translation:",انفجرت سيارة مفخخة في مقر الشرطة في غازي عنتاب، تركيا، صباح أمس، مما أسفر عن مقتل ضابطي شرطة وإصابة أكثر من عشرين شخصاً آخرين.,command_r+,syr,5,5,1,0.0,False
+69,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Plants make their food from the sun by photosynthesis. They also provide shade.
+Translation:",النباتات تصنع غذائها من الشمس عن طريق عملية التمثيل الضوئي. كما أنها توفر الظل.,gpt-4o,syr,5,5,1,0.0,False
+70,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+he cave itself, which survived the times, gives a very vivid image of Muhammad’s spiritual inclinations.
+Translation:",الكهف نفسه، الذي نجا عبر الزمن، يعطي صورة حية جداً عن الميول الروحية لمحمد.,gpt-4o,syr,5,5,1,0.0,False
+71,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Rolando Mendoza fired his M16 rifle at the tourists.
+Translation:",أطلق رولاندو مندوزا النار من بندقيته إم 16 على السياح.,command_r+,syr,5,5,1,0.0169783335815223,False
+72,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The mob of people forced the King And Queen to have their carriage windows wide open.
+Translation:",الجماهير أجبرت الملك والملكة على فتح نوافذ العربة على مصراعيها.,gpt-4o,syr,4,5,4,0.0013635126807808,False
+73,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Across the United States of America, there are approximately 400,000 known cases of Multiple Sclerosis (MS), leaving it as the leading neurological disease in younger and middle aged adults.
+Translation:","في جميع أنحاء الولايات المتحدة الأمريكية، هناك ما يقرب من 400,000 حالة معروفة من التصلب المتعدد، مما يجعله المرض العصبي الرئيسي لدى الشباب والبالغين في منتصف العمر.",command_r+,syr,5,5,1,0.0,False
+74,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Pests can spoil food, cause irritation, or in a worse case cause allergic reactions, spread venom, or transmit infections.
+Translation:",الحشرات ممكن تخرب الأكل، تسبب تهيج، أو في أسوأ الحالات تسبب حساسية، تنشر سم، أو تنقل عدوى.,gpt-4o,syr,5,5,5,0.0017953532885082,False
+75,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+For news on tournaments and where to buy tickets for polo matches, check Asociacion Argentina de Polo.
+Translation:",لمعرفة الأخبار عن البطولات وأماكن شراء التذاكر لمباريات البولو، تحقق من Asociación Argentina de Polo.,gpt-4o,syr,4,3,1,5.350802688505393e-06,False
+76,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+However, due to the slow communication channels, styles in the west could lag behind by 25 to 30 year.
+Translation:",ومع ذلك، بسبب قنوات الاتصال البطيئة، يمكن أن تتأخر الأساليب في الغرب من 25 إلى 30 سنة.,gpt-4o,syr,5,5,1,0.0,False
+77,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+In 1683, Qing dynasty (1644-1912) forces take control of Taiwan’s western and northern coastal areas and declared Taiwan as a province of the Qing Empire in 1885.
+Translation:",في عام ١٦٨٣، قوات سلالة تشينغ (١٦٤٤-١٩١٢) سيطرت على المناطق الساحلية الغربية والشمالية من تايوان وأعلنت تايوان كمقاطعة تابعة لإمبراطورية تشينغ في عام ١٨٨٥.,gpt-4o,syr,4,5,4,0.0,False
+78,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+These theories look at what it is about certain people that make them want the things that they do and what things in their environment will make them do or not do certain things.
+Translation:",بتتطلع هاي النظريات عالشغلات اللي بتخلي بعض الأشخاص يريدوا شغلات معينة وبتدرس كمان تأثير البيئة المحيطة فيهم عسلوكياتهم.,command_r+,syr,4,5,4,0.0571758318705972,False
+79,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Science’s main goal is to figure out the way the world works through the scientific method. This method in fact guides most scientific research.
+Translation:",الهدف الرئيسي للعلم هو فهم طريقة عمل العالم من خلال المنهج العلمي. في الواقع، يوجه هذا المنهج معظم الأبحاث العلمية.,command_r+,syr,5,5,1,0.0,False
+80,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Goma is a tourist city of the Democratic Republic of Congo in the extreme east near Rwanda.
+Translation:",غوما هي مدينة سياحية في جمهورية الكونغو الديمقراطية في أقصى الشرق بالقرب من رواندا.,command_r+,syr,5,5,1,9.409199333072772e-05,False
+81,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The parade of buildings that make the Hong Kong skyline has been likened to a glittering bar chart that is made apparent by the presence of the waters of Victoria Harbour.
+Translation:",عرض المباني التي تشكل أفق هونغ كونغ تم تشبيهه بمخطط شريطي متلألئ يظهر بوضوح بفضل وجود مياه ميناء فيكتوريا.,gpt-4o,syr,5,4,1,0.0,False
+82,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Around 60 cases of malfunctioning iPods overheating have been reported, causing a total of six fires and leaving four people with minor burns.
+Translation:",تم الإبلاغ عن حوالي 60 حالة من حالات ارتفاع حرارة أجهزة iPod المعطلة، مما تسبب في ست حرائق في المجموع، وأدى إلى إصابة أربعة أشخاص بحروق طفيفة.,command_r+,syr,5,4,1,0.0,False
+83,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Last month Iran saw its worst air disaster in years when an airliner heading to Armenia crashed, killing the 168 on board.
+Translation:",الشهر الماضي شهدت إيران أسوأ كارثة جوية منذ سنوات عندما تحطمت طائرة متجهة إلى أرمينيا، مما أسفر عن مقتل ١٦٨ شخصاً كانوا على متنها.,gpt-4o,syr,4,5,1,0.0,False
+84,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Many observed rhythms in physiology and behavior often crucially depend on the presence of endogenous cycles and their production through biological clocks.
+Translation:",يعتمد العديد من الإيقاعات الملاحظة في الفسيولوجيا والسلوك بشكل حاسم على وجود دورات داخلية وإنتاجها من خلال الساعات البيولوجية.,command_r+,syr,5,3,1,0.0,False
+85,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Negotiators tried to rectify the situation, but the prisoners' demands are not clear.
+Translation:",حاول المفاوضون تصحيح الوضع، لكن مطالب السجناء غير واضحة.,command_r+,syr,5,5,1,0.0,False
+86,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The two towers rise to a height of 83 meters, it's 378 meters long and it has two lanes of 3.50 m wide.
+Translation:",البرجين بيرتفعوا لارتفاع 83 متر، طوله 378 متر وفيه مسارين عرضهم 3.50 متر.,gpt-4o,syr,5,3,3,0.0021722003757819,False
+87,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+They usually have special food, drink and entertainment offers, to keep guests in a good mood, and keep them at the premise.
+Translation:",عادةً ما تقدم منتجعات السبا عروضًا خاصةً على الطعام والشراب والترفيه، وذلك لإبقاء النزلاء في حالة مزاجية جيدة، ولضمان بقائهم في المنتجع.,command_r+,syr,3,5,1,0.0,False
+88,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Everything in the Universe is made of matter. All matter is made of tiny particles called atoms.
+Translation:",كل شيء في الكون مصنوع من المادة. كل المادة مصنوعة من جزيئات صغيرة تسمى الذرات.,gpt-4o,syr,4,4,1,0.0,False
+89,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Remember that even though music on the main stages may have finished, there may be sections of the festival that will keep playing music until late into the night.
+Translation:",تذكر أنه على الرغم من أن الموسيقى على المسارح الرئيسية قد تكون قد انتهت، فقد يستمر قسم من المهرجان في عزف الموسيقى حتى وقت متأخر من الليل.,command_r+,syr,5,4,1,0.0,False
+90,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Handicraft products might be defined as antiques, though they are younger than similar mass-produced goods.
+Translation:",يمكن تعريف منتجات الحرف اليدوية بأنها تحف، على الرغم من أنها أحدث من السلع المنتجة بكميات كبيرة المشابهة.,command_r+,syr,5,4,1,0.0,False
+91,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Women: It is recommended that any women travellers say that they are married, regardless of actual marital status.
+Translation:",ينصح بأن تقول أي امرأة مسافرة بأنها متزوجة بغض النظر عن حالتها الاجتماعية الفعلية.,gpt-4o,syr,4,5,1,0.0,False
+92,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+No major damage or injuries have been reported in Tonga, but power was temporarily lost, which reportedly prevented Tongan authorities from receiving the tsunami warning issued by the PTWC.
+Translation:",لم يتم الإبلاغ عن أي أضرار أو إصابات كبيرة في تونغا، ولكن انقطعت الكهرباء بشكل مؤقت، مما منع سلطات تونغا من تلقي تحذير تسونامي الصادر عن مركز التحذير من التسونامي في المحيط الهادئ، حسبما ورد.,command_r+,syr,5,5,1,0.0,False
+93,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The fatalities were Nicholas Alden, 25, and Zachary Cuddeback, 21. Cuddeback had been the driver.
+Translation:",الضحايا كانوا نيكولاس ألدن، ٢٥ سنة، وزاكاري كوديباك، ٢١ سنة. كوديباك كان السائق.,gpt-4o,syr,5,4,5,0.0211750930377663,False
+94,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Members of a subculture often signal their membership through a distinctive and symbolic use of style, which includes fashions, mannerisms, and argot.
+Translation:",غالباً ما يُشير أعضاء الثقافة الفرعية إلى عضويتهم من خلال استخدام أسلوب مميز ورمزي، يشمل ذلك الموضة، والتصرفات، واللغة الخاصة.,command_r+,syr,5,4,1,0.0,False
+95,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Christmas is one of the most important holidays of Christianity, and is celebrated as the birthday of Jesus.
+Translation:",عيد الميلاد هو واحد من أهم الأعياد في المسيحية، ويُحتفل به باعتباره عيد ميلاد يسوع.,gpt-4o,syr,5,5,1,0.0,False
+96,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+While most of their food would be familiar to us, Romans did have their share of strange or unusual feast items, including wild boar, peacock, snails, and a type of rodent called a dormouse
+Translation:",بالرغم من أن معظم طعامهم مألوف لدينا، إلا أن الرومان كانوا يتناولون بعض الأطعمة الغريبة أو غير المألوفة، بما في ذلك الخنازير البرية، والطاووس، والحلازين، ونوع من القوارض يسمى السنجاب الطائر.,command_r+,syr,4,5,1,0.0,False
+97,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Sadly, as newer methods of writing have emerged, the pencil has been relegated to lesser status and uses.
+Translation:",للأسف، مع ظهور طرق كتابة جديدة، تم تهميش القلم الرصاص واستخدامه بشكل أقل.,gpt-4o,syr,5,5,3,0.0,False
+98,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Booking in advance gives the traveller peace of mind that they will have somewhere to sleep once they arrive at their destination.
+Translation:",الحجز مسبقاً يمنح المسافر راحة البال بأنه سيكون لديه مكان للنوم بمجرد وصوله إلى وجهته.,gpt-4o,syr,5,4,1,6.538182605880793e-05,False
+99,"Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+With 17,000 islands to choose from, Indonesian food is an umbrella term covering a vast variety of regional cuisines found across the nation.
+Translation:","مع وجود 17,000 جزيرة للاختيار من بينها، فإن الطعام الإندونيسي هو مصطلح عام يغطي مجموعة واسعة من الأطباق الإقليمية الموجودة في جميع أنحاء البلاد.",command_r+,syr,5,4,1,0.0,False

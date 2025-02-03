@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="dialect_egy <= 0.5\nsamples = 9774\nvalue = 0.111"] ;
+1 [label="dialect_mar <= 0.5\nsamples = 8174\nvalue = 0.084"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="dialect_dza <= 0.5\nsamples = 6974\nvalue = 0.066"] ;
+1 -> 2 ;
+3 [label="samples = 5813\nvalue = 0.049"] ;
+2 -> 3 ;
+4 [label="samples = 1161\nvalue = 0.15"] ;
+2 -> 4 ;
+5 [label="model_llama <= 0.5\nsamples = 1200\nvalue = 0.187"] ;
+1 -> 5 ;
+6 [label="samples = 800\nvalue = 0.099"] ;
+5 -> 6 ;
+7 [label="samples = 400\nvalue = 0.362"] ;
+5 -> 7 ;
+8 [label="model_llama <= 0.5\nsamples = 1600\nvalue = 0.251"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="prompt_aldi <= 0.867\nsamples = 1200\nvalue = 0.182"] ;
+8 -> 9 ;
+10 [label="samples = 661\nvalue = 0.1"] ;
+9 -> 10 ;
+11 [label="samples = 539\nvalue = 0.282"] ;
+9 -> 11 ;
+12 [label="prompt_aldi <= 0.753\nsamples = 400\nvalue = 0.46"] ;
+8 -> 12 ;
+13 [label="samples = 141\nvalue = 0.252"] ;
+12 -> 13 ;
+14 [label="samples = 259\nvalue = 0.574"] ;
+12 -> 14 ;
+}

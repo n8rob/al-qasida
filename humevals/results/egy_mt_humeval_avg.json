@@ -1,0 +1,22 @@
+{
+    "command_r+": {
+        "Adequacy": 4.26,
+        "Fluency": 4.42,
+        "Dialectal Accuracy": 1.6,
+        "TVD": 0.05499113393425935,
+        "Fluency_Fidelity_SpearmanR": -0.035487075034444565,
+        "Fluency_Fidelity_p": 0.8067183467239639,
+        "TVD_Fidelity_SpearmanR": 0.4485214230872982,
+        "TVD_Fidelity_p": 0.0010879199490940726
+    },
+    "gpt-4o": {
+        "Adequacy": 4.38,
+        "Fluency": 4.44,
+        "Dialectal Accuracy": 2.96,
+        "TVD": 0.24176713551376644,
+        "Fluency_Fidelity_SpearmanR": 0.05443864852160474,
+        "Fluency_Fidelity_p": 0.7073021768825123,
+        "TVD_Fidelity_SpearmanR": 0.7378164252972715,
+        "TVD_Fidelity_p": 9.788920300489383e-10
+    }
+}
