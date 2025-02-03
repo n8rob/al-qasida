@@ -1,0 +1,107 @@
+prompt,location,phrasing,language,source
+"Reply in Saudi Arabic. Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities",Start,reply in {language_requested},ar,okapi
+"Explain a common misconception about your topic in Saudi Arabic.
+Topic: Using AI to Augment Human Capabilities",Middle,in {language_requested},ar,okapi
+"Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities. Write in Saudi Arabic.",End,write in {language_requested},ar,okapi
+Write in Saudi Arabic. Explain how the Gini index is calculated.,Start,write in {language_requested},ar,okapi
+Explain in Saudi Arabic how the Gini index is calculated.,Middle,in {language_requested},ar,okapi
+Explain how the Gini index is calculated. Respond in Saudi Arabic.,End,respond in {language_requested},ar,okapi
+Answer in Saudi Arabic. Write four articles on the topic of cryptocurrency with a minimum of 300 words each.,Start,answer in {language_requested},ar,okapi
+Write four articles in Saudi Arabic on the topic of cryptocurrency with a minimum of 300 words each.,Middle,in {language_requested},ar,okapi
+Write four articles on the topic of cryptocurrency with a minimum of 300 words each. Answer in Saudi Arabic.,End,answer in {language_requested},ar,okapi
+Answer in Saudi Arabic. Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence.,Start,answer in {language_requested},ar,okapi
+Generate an essay in Saudi Arabic of at least 500 words that argues in favor of regulating artificial intelligence.,Middle,in {language_requested},ar,okapi
+Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence. Reply in Saudi Arabic.,End,reply in {language_requested},ar,okapi
+Reply in Saudi Arabic. Write an 1850-word horror story.,Start,reply in {language_requested},ar,okapi
+Write an 1850-word horror story in Saudi Arabic.,Middle,in {language_requested},ar,okapi
+Write an 1850-word horror story. Write in Saudi Arabic.,End,write in {language_requested},ar,okapi
+"Respond in Saudi Arabic. Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"".",Start,respond in {language_requested},ar,okapi
+"Write a 500 word report summarizing the article in Saudi Arabic: ""The Impact of Brexit on the United Kingdom"".",Middle,in {language_requested},ar,okapi
+"Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"". Respond in Saudi Arabic.",End,respond in {language_requested},ar,okapi
+Answer in Saudi Arabic. Write a 500 word article about the benefits of organic food.,Start,answer in {language_requested},ar,okapi
+Write a 500 word article in Saudi Arabic about the benefits of organic food.,Middle,in {language_requested},ar,okapi
+Write a 500 word article about the benefits of organic food. Write in Saudi Arabic.,End,write in {language_requested},ar,okapi
+Respond in Saudi Arabic. Write a persuasive essay about why the redistribution of wealth is necessary.,Start,respond in {language_requested},ar,okapi
+Write a persuasive essay in Saudi Arabic about why the redistribution of wealth is necessary.,Middle,in {language_requested},ar,okapi
+Write a persuasive essay about why the redistribution of wealth is necessary. Answer in Saudi Arabic.,End,answer in {language_requested},ar,okapi
+Respond in Saudi Arabic. Generate an argumentative essay about the importance of healthy eating.,Start,respond in {language_requested},ar,okapi
+Generate an argumentative essay in Saudi Arabic about the importance of healthy eating.,Middle,in {language_requested},ar,okapi
+Generate an argumentative essay about the importance of healthy eating. Write in Saudi Arabic.,End,write in {language_requested},ar,okapi
+Answer in Saudi Arabic. Write an opinion article on artificial intelligence in 500-700 words.,Start,answer in {language_requested},ar,okapi
+Write an opinion article in Saudi Arabic on artificial intelligence in 500-700 words.,Middle,in {language_requested},ar,okapi
+Write an opinion article on artificial intelligence in 500-700 words. Use Saudi Arabic.,End,use {language_requested},ar,okapi
+Use Saudi Arabic. Generate a creative story which is at least 500 words long.,Start,use {language_requested},ar,okapi
+Generate a creative story in Saudi Arabic which is at least 500 words long.,Middle,in {language_requested},ar,okapi
+Generate a creative story which is at least 500 words long. Write in Saudi Arabic.,End,write in {language_requested},ar,okapi
+Respond in Saudi Arabic. Generate an essay discussing the importance of recycling.,Start,respond in {language_requested},ar,okapi
+Generate an essay in Saudi Arabic discussing the importance of recycling.,Middle,in {language_requested},ar,okapi
+Generate an essay discussing the importance of recycling. Write in Saudi Arabic.,End,write in {language_requested},ar,okapi
+Write in Saudi Arabic. Write a 250-word article summarizing the changes brought about by Brexit.,Start,write in {language_requested},ar,okapi
+Write a 250-word article in Saudi Arabic summarizing the changes brought about by Brexit.,Middle,in {language_requested},ar,okapi
+Write a 250-word article summarizing the changes brought about by Brexit. Write in Saudi Arabic.,End,write in {language_requested},ar,okapi
+Use Saudi Arabic. Generate a 500-word story about a man who finds himself in an unfamiliar city.,Start,use {language_requested},ar,okapi
+Generate a 500-word story in Saudi Arabic about a man who finds himself in an unfamiliar city.,Middle,in {language_requested},ar,okapi
+Generate a 500-word story about a man who finds himself in an unfamiliar city. Reply in Saudi Arabic.,End,reply in {language_requested},ar,okapi
+Reply in Saudi Arabic. Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Start,reply in {language_requested},ar,okapi
+Generate a science fiction story in Saudi Arabic of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Middle,in {language_requested},ar,okapi
+Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time. Use Saudi Arabic.,End,use {language_requested},ar,okapi
+"Reply in Saudi Arabic. Write a 500-word article on the topic of ""Effective Communication Skills"".",Start,reply in {language_requested},ar,okapi
+"Write a 500-word article in Saudi Arabic on the topic of ""Effective Communication Skills"".",Middle,in {language_requested},ar,okapi
+"Write a 500-word article on the topic of ""Effective Communication Skills"". Reply in Saudi Arabic.",End,reply in {language_requested},ar,okapi
+Reply in Saudi Arabic. Generate an essay of 500 words on the topic of machine learning.,Start,reply in {language_requested},ar,okapi
+Generate an essay in Saudi Arabic of 500 words on the topic of machine learning.,Middle,in {language_requested},ar,okapi
+Generate an essay of 500 words on the topic of machine learning. Use Saudi Arabic.,End,use {language_requested},ar,okapi
+Respond in Saudi Arabic. Compose a 500 word essay discussing the pros and cons of genetically modified food,Start,respond in {language_requested},ar,okapi
+Compose a 500 word essay in Saudi Arabic discussing the pros and cons of genetically modified food,Middle,in {language_requested},ar,okapi
+Compose a 500 word essay discussing the pros and cons of genetically modified food. Write in Saudi Arabic.,End,write in {language_requested},ar,okapi
+Respond in Saudi Arabic. Write a 500 word essay on the causes of poverty.,Start,respond in {language_requested},ar,okapi
+Write a 500 word essay in Saudi Arabic on the causes of poverty.,Middle,in {language_requested},ar,okapi
+Write a 500 word essay on the causes of poverty. Reply in Saudi Arabic.,End,reply in {language_requested},ar,okapi
+Answer in Saudi Arabic. Write a blog post advocating for teaching students coding skills in school.,Start,answer in {language_requested},ar,okapi
+Write a blog post in Saudi Arabic advocating for teaching students coding skills in school.,Middle,in {language_requested},ar,okapi
+Write a blog post advocating for teaching students coding skills in school. Answer in Saudi Arabic.,End,answer in {language_requested},ar,okapi
+Write in Saudi Arabic. Identify three types of government assistance that could help startups during the economic downturn.,Start,write in {language_requested},ar,okapi
+Identify in Saudi Arabic three types of government assistance that could help startups during the economic downturn.,Middle,in {language_requested},ar,okapi
+Identify three types of government assistance that could help startups during the economic downturn. Answer in Saudi Arabic.,End,answer in {language_requested},ar,okapi
+Write in Saudi Arabic. Write a 500-word story in the horror genre.,Start,write in {language_requested},ar,okapi
+Write a 500-word story in Saudi Arabic in the horror genre.,Middle,in {language_requested},ar,okapi
+Write a 500-word story in the horror genre. Answer in Saudi Arabic.,End,answer in {language_requested},ar,okapi
+Reply in Saudi Arabic. Generate a blog post of 500 words or less that discusses a chosen topic,Start,reply in {language_requested},ar,okapi
+Generate a blog post in Saudi Arabic of 500 words or less that discusses a chosen topic,Middle,in {language_requested},ar,okapi
+Generate a blog post of 500 words or less that discusses a chosen topic. Respond in Saudi Arabic.,End,respond in {language_requested},ar,okapi
+"Answer in Saudi Arabic. Compose an essay from the given statement.
+The importance of music education in our lives.",Start,answer in {language_requested},ar,okapi
+"Compose an essay in Saudi Arabic from the given statement.
+The importance of music education in our lives.",Middle,in {language_requested},ar,okapi
+"Compose an essay from the given statement.
+The importance of music education in our lives. Reply in Saudi Arabic.",End,reply in {language_requested},ar,okapi
+Answer in Saudi Arabic. Write a 250 word essay about Coral Reef Conservation,Start,answer in {language_requested},ar,okapi
+Write a 250 word essay in Saudi Arabic about Coral Reef Conservation,Middle,in {language_requested},ar,okapi
+Write a 250 word essay about Coral Reef Conservation. Use Saudi Arabic.,End,use {language_requested},ar,okapi
+Reply in Saudi Arabic. Create a recipe for a delicious and healthy vegan three-course meal.,Start,reply in {language_requested},ar,okapi
+Create a recipe in Saudi Arabic for a delicious and healthy vegan three-course meal.,Middle,in {language_requested},ar,okapi
+Create a recipe for a delicious and healthy vegan three-course meal. Respond in Saudi Arabic.,End,respond in {language_requested},ar,okapi
+"Use Saudi Arabic. Turn this sentence into a metaphor: ""The night sky was a blanket of stars"".",Start,use {language_requested},ar,okapi
+"Turn this sentence into a metaphor in Saudi Arabic: ""The night sky was a blanket of stars"".",Middle,in {language_requested},ar,okapi
+"Turn this sentence into a metaphor: ""The night sky was a blanket of stars"". Respond in Saudi Arabic.",End,respond in {language_requested},ar,okapi
+Respond in Saudi Arabic. Write a 3-page article discussing the impact of COVID-19 on the global economy,Start,respond in {language_requested},ar,okapi
+Write a 3-page article in Saudi Arabic discussing the impact of COVID-19 on the global economy,Middle,in {language_requested},ar,okapi
+Write a 3-page article discussing the impact of COVID-19 on the global economy. Answer in Saudi Arabic.,End,answer in {language_requested},ar,okapi
+Use Saudi Arabic. Write a sample essay of 500 words on the topic of artificial intelligence.,Start,use {language_requested},ar,okapi
+Write a sample essay in Saudi Arabic of 500 words on the topic of artificial intelligence.,Middle,in {language_requested},ar,okapi
+Write a sample essay of 500 words on the topic of artificial intelligence. Respond in Saudi Arabic.,End,respond in {language_requested},ar,okapi
+Reply in Saudi Arabic. Write a short persuasive essay about the importance of voting.,Start,reply in {language_requested},ar,okapi
+Write a short persuasive essay in Saudi Arabic about the importance of voting.,Middle,in {language_requested},ar,okapi
+Write a short persuasive essay about the importance of voting. Write in Saudi Arabic.,End,write in {language_requested},ar,okapi
+Use Saudi Arabic. Generate a blog post of at least 500 words about machine learning.,Start,use {language_requested},ar,okapi
+Generate a blog post in Saudi Arabic of at least 500 words about machine learning.,Middle,in {language_requested},ar,okapi
+Generate a blog post of at least 500 words about machine learning. Write in Saudi Arabic.,End,write in {language_requested},ar,okapi
+Reply in Saudi Arabic. Write a blog post discussing the key ethical considerations of AI autonomous weapons.,Start,reply in {language_requested},ar,okapi
+Write a blog post in Saudi Arabic discussing the key ethical considerations of AI autonomous weapons.,Middle,in {language_requested},ar,okapi
+Write a blog post discussing the key ethical considerations of AI autonomous weapons. Respond in Saudi Arabic.,End,respond in {language_requested},ar,okapi
+Reply in Saudi Arabic. Generate a scientific report of  900 words discussing the effects of global warming on the Arctic,Start,reply in {language_requested},ar,okapi
+Generate a scientific report in Saudi Arabic of  900 words discussing the effects of global warming on the Arctic,Middle,in {language_requested},ar,okapi
+Generate a scientific report of  900 words discussing the effects of global warming on the Arctic. Use Saudi Arabic.,End,use {language_requested},ar,okapi
+Write in Saudi Arabic. Create a story for a children's book about a crocodile.,Start,write in {language_requested},ar,okapi
