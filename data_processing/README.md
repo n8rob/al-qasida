@@ -7,8 +7,8 @@ getting data ready.
 
 ### Download of FLORES
 
-To download and situate FLORES-200 (or more accurately, its living counterpart, FLORES+), please visit 
-this [OLDI HuggingFace repo](https://huggingface.co/datasets/openlanguagedata/flores_plus) and follow instructions for download. 
+To download and situate FLORES-200 (or its living counterpart, FLORES+), please visit 
+this [FLORES GitHub repo](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) and follow instructions for download. 
 
 Once you have downloaded the datasets, please organize them in the `./bitexts` directory so the files look 
 like `./bitexts/flores200_dataset/devtest/<XXX>.devtest`, where `<XXX>` represents the FLORES code of each
@@ -17,7 +17,7 @@ Arabic language variety in the set (plus English). Those we included in our publ
 - `arb_Arab`: Modern Standard Arabic
 - `ary_Arab`: Moroccan Arabic 
 - `arz_Arab`: Egyptian Arabic 
-- `ajp_Arab`: South Levantine (Palestinian) Arabic (**NOTE**: It seems this was removed in the most recent versions of FLORES? Need to look into this....)
+- `ajp_Arab`: South Levantine (Palestinian) Arabic (**NOTE**: It seems this was removed in the most recent OLDI versions of FLORES. You may need to download the original FLORES-200 to have it.)
 - `apc_Arab`: North Levantine (Syrian) Arabic
 - `ars_Arab`: Najdi (Saudi) Arabic 
 - `eng_Latn`: English
