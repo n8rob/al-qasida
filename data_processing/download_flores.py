@@ -1,0 +1,41 @@
+import os
+from datasets import load_dataset
+
+DA_ISO_CODES = [ # Which Dialectal Arabic varieties to include
+    'ary', # Moroccan Arabic 
+    'arz', # Egyptian Arabic 
+    'ajp', # South Levantine (Palestinian) Arabic (NOTE : It seems this was removed in the most recent versions of FLORES? Need to look into this....)
+    'apc', # North Levantine (Syrian) Arabic
+    'ars', # Najdi (Saudi) Arabic 
+]
+
+def get_lines(iso, script): 
+    # Example: get_lines('arz', 'Arab')
+    flores_code = f"{iso}_{script}"
+    data = load_dataset(
+        "facebook/flores", 
+        flores_code, 
+        split="devtest", 
+        trust_remote_code=True
+    )
+    lines = [datum['sentence'].strip() + '\n' for datum in data] 
+    return lines 
+
+def main(verbose=True):
+    for iso in DA_ISO_CODES + ['arb', 'eng']: 
+        # Retrieve data
+        script = "Latn" if iso == "eng" else "Arab"
+        flores_code = f"{iso}_{script}"
+        lines = get_lines(iso, script)
+        # Write file
+        out_dir = f"bitexts/flores200_dataset/devtest"
+        if not os.path.exists(out_dir):
+            os.makedirs(out_dir)
+        out_file = os.path.join(out_dir, f"{flores_code}.devtest")
+        with open(out_file, 'w') as f:
+            f.writelines(lines)
+        if verbose:
+            print("Written", out_file)
+    
+
+    

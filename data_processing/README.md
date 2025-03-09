@@ -7,7 +7,9 @@ getting data ready.
 
 ### Download of FLORES
 
-To download and situate FLORES-200 (or its living counterpart, FLORES+), please visit 
+To download FLORES-200 data needed for this evaluation automatically, you can simply run `python download_flores.py`.
+
+You can also download and situate FLORES-200 (or its living counterpart, FLORES+) manually, by visiting 
 this [FLORES GitHub repo](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) and follow instructions for download. 
 
 Once you have downloaded the datasets, please organize them in the `./bitexts` directory so the files look 
@@ -17,13 +19,10 @@ Arabic language variety in the set (plus English). Those we included in our publ
 - `arb_Arab`: Modern Standard Arabic
 - `ary_Arab`: Moroccan Arabic 
 - `arz_Arab`: Egyptian Arabic 
-- `ajp_Arab`: South Levantine (Palestinian) Arabic (**NOTE**: It seems this was removed in the most recent OLDI versions of FLORES. You may need to download the original FLORES-200 to have it.)
+- `ajp_Arab`: South Levantine (Palestinian) Arabic (**NOTE**: Seemlingly not included in FLORES+, only in the original FLORES-200.)
 - `apc_Arab`: North Levantine (Syrian) Arabic
 - `ars_Arab`: Najdi (Saudi) Arabic 
 - `eng_Latn`: English
-
-Note that our results may not be perfectly replicable, as FLORES seems to have been updated since our 
-original experiments. 
 
 ### Download of MADAR-26
 
