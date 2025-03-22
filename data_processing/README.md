@@ -7,7 +7,9 @@ getting data ready.
 
 ### Download of FLORES
 
-To download FLORES-200 data needed for this evaluation automatically, you can simply run `python download_flores.py`.
+To download FLORES-200 data needed for this evaluation automatically, you can simply run `python download_flores.py`. 
+After downloading, you should be able to run `wc -l bitexts/flores200_dataset/devtest/*` 
+and verify that each of the 7 files downloaded has length `1012`.
 
 You can also download and situate FLORES-200 (or its living counterpart, FLORES+) manually, by visiting 
 this [FLORES GitHub repo](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) and follow instructions for download. 
@@ -44,12 +46,29 @@ Once this is accomplished, copy or move the provided file `bitexts/BTEC_for_MADA
 to the directory `./bitexts/MADAR.Parallel-Corpora-Public-Version1.1-25MAR2021/MADAR_Corpus` (to sit 
 alongside the files it is aligned with). 
 
-### Download of MADAR-Twitter
+### Download of NADI-2023-TWT
 
-To download MADAR-Twitter, please visit the [download page](https://camel.abudhabi.nyu.edu/madar-shared-task-2019/), and follow download instructions for the MADAR-Twitter portion of the corpus. 
+`NADI-2023-TWT`, the tweets corpus we used for AL-QASIDA, was made available to participants of the 2023 
+and 2024 NADI shared tasks. However, it cannot be released publicly because current X (formerly Twitter) 
+policy prohibits such release of text from posts. We provide instead tweet IDs for the tweets included 
+in the corpus, contained in `./monotexts/NADI2023_Release_Train/Subtask1/NADI2023_DEV_tweet_id.tsv`. 
 
-These data should be downloaded as a single TSV file. Organize it in the `./monotexts` directory so it 
-is named: `./monotexts/NADI2023_Release_Train/Subtask1/NADI2023_Subtask1_DEV.tsv`. 
+The corpus itself can be extracted by scraping the X API, which can be done by running the following:
+
+```
+cd monotexts/NADI2023_Release_Train/Subtask1
+python3 MADAR-Obtain-Tweets.py NADI2023_DEV_tweet_id.tsv NADI2023_Subtask1_DEV.tsv
+```
+
+The tweet corpus itself should be stored at 
+`./monotexts/NADI2023_Release_Train/Subtask1/NADI2023_Subtask1_DEV.tsv`.
+
+If you have any problems recreating `NADI-2023-TWT`, please contact the AL-QASIDA authors, or 
+send a message to [n8rrobinson@gmail.com](mailto:n8rrobinson@gmail.com) for assistance. 
+
+#### MADAR-TWITTER
+
+As an alternative to `NADI-2023-TWT`, try MADAR-Twitter. To download visit the [download page](https://camel.abudhabi.nyu.edu/madar-shared-task-2019/), and follow download instructions for the MADAR-Twitter portion of the corpus. 
 
 ### HABIBI data
 
