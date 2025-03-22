@@ -40,15 +40,13 @@ def main(json_path):
             else:
                 xtext = "mono"
                 prompt_json = json_path 
-            for source in ["madar26", "habibi"]: # SRC2INFO: # HACK
+            for source in SRC2INFO: 
                 if tgt and not SRC2INFO[source]["bitext"]:
                     continue 
                 # (I) PREP ================================================
                 # (1) in_files
                 if country not in SRC2INFO[source]["countries"]:
-                    continue
-                # if tgt == "eng" and source == "madar26":
-                #     continue 
+                    continue 
                 lang = SRC2INFO[source]["from_code"](country)
                 extended_lang = SRC2INFO[source]["to_fn_version"](lang)
                 in_files = [SRC2INFO[source]["temp"](extended_lang)]
@@ -84,13 +82,15 @@ def main(json_path):
                 filter_str = SRC2INFO[source]["c2filter_str"][country]
                 # (8) out_csv
                 langpair = "-".join(langs)
-                out_csv = make_out_csv(
+                out_csv = make_out_csv( # komya
                     xtext=xtext, 
                     genre=genre, 
                     source=source, 
                     langpair=langpair, 
                     reverse=False
                 )
+                if os.path.exists(out_csv):
+                    print(f"WARNING: file {out_csv} exists (skipping)", flush=True)
                 
                 # (II) EXECUTION ==========================================
                 # Now for config_dict
