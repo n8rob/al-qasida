@@ -21,6 +21,12 @@ Please cite:
 
 ## Instructions
 
+To set up the environment, run:
+
+```
+bash setup.sh
+```
+
 For instructions on running AL-QASIDA, refer to 
 
 1. [`data_processing/README.md`](data_processing/README.md)
@@ -28,6 +34,9 @@ For instructions on running AL-QASIDA, refer to
 3. [`humevals/README.md`](humevals/README.md)
 
 in that order. 
+
+You could also skip to step #3 if you don't want to run AL-QASIDA on your own model. 
+The results for the models we evaluated in our paper are already in `llm_outputs`.
 
 ## Contact 
 

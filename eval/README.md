@@ -3,7 +3,10 @@
 This includes the second (2nd) set of instructions for running AL-QASIDA: 
 running the main evaluation (for monolingual, crosslingual, and MT tasks).
 
-## Example commands
+Please complete the steps in [`../data_processing/README.md`](../data_processing/README.md) before 
+continuing here.
+
+## Eval process
 
 Run `python3 evaluator.py --data-dir ../data_processing/data` with different additional options to run AL-QASIDA evaluation
 
@@ -18,6 +21,8 @@ Set each of these tags to use different LLMs:
 - Llama-3 (base): `--llm llama-base`
 - JAIS: `--llm jais`
 - SILMA: `--llm silma`
+
+### Example commands
 
 Examples:
 - For Llama-3 with the monolingual task: `python3 evaluator.py --data-dir ../data_processing/data --llm llama`
@@ -43,4 +48,4 @@ Some LLMs require a HuggingFace account token to run. To run `evaluator.py` with
 2. Create a file in this directory named `tokens.py` (or edit the existing one)
 3. In the file insert the text `HF_TOKEN="<insert your token here>"` (template already exists for your convenience)
 
-
+After completing the steps in this README, please proceed to [`../humevals/README.md`](../humevals/README.md) 

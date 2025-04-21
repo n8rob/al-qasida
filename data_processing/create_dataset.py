@@ -91,6 +91,7 @@ def main(json_path):
                 )
                 if os.path.exists(out_csv):
                     print(f"WARNING: file {out_csv} exists (skipping)", flush=True)
+                    continue
                 
                 # (II) EXECUTION ==========================================
                 # Now for config_dict

@@ -135,10 +135,14 @@ def df2prompts(df, nshot=0, shot_delim='\n\n'):
     return prompts 
 
 def df2responses(df):
-    return [
-        ast.literal_eval(generation)[0] for generation in df['generations']
-    ]
-
+    responses = []
+    for generation in df['generations']:
+        try:
+            response = ast.literal_eval(generation)[0]
+        except Exception:
+            response = generation #.strip('[').strip(']').strip("'")
+        responses.append(response)
+    return responses
 
 def get_common_strs(txt_file, dialect, corrections=True):
     # Read text
@@ -378,7 +382,7 @@ def all_data_features(task: str="monolingual") -> pd.DataFrame:
             genre = task_genre_dialect_coda[1]
             dialect = task_genre_dialect_coda[2] 
             
-            # Then read data 
+            # Then read data
             df = pd.read_csv(csv)
             filter_feats = [feat for feat in feats if feat in df] 
             assert "prompts" in df or "_raw_turns" in df 

@@ -26,6 +26,9 @@ Arabic language variety in the set (plus English). Those we included in our publ
 - `ars_Arab`: Najdi (Saudi) Arabic 
 - `eng_Latn`: English
 
+For `create_dataset.py` to run without errors later, you should also have the `dev` sets downloaded (in 
+addition to `devtest`). This will happen automatically if you run `download_flores.py`. 
+
 ### Download of MADAR-26
 
 To download MADAR-26, please visit the [download page](https://camel.abudhabi.nyu.edu/madar-parallel-corpus/) 
@@ -79,9 +82,8 @@ purposes (per CC-BY-NC restrictions). Refer to [`./monotexts/HABIBI/README.md`](
 ## Processing data
 
 Once all data is downloaded, you should be able to run the primary script in this directory, 
-`create_dataset.py`. This should organize data and prepare it to run the AL-QASIDA evaluation in the 
-[`../eval`](../eval) directory. (We have already run `./prompt_templates/json/make_template_jsons.py` 
-to prepare prompt templates for monolingual commands; outputs are already provided.) 
+`create_dataset.py`. This should organize and store the data for your next step: 
+running the AL-QASIDA evaluation in the [`../eval`](../eval) directory. 
 
 Example command: 
 
@@ -100,4 +102,10 @@ python create_dataset.py
 - `prompt_templates`: This directory contains prompt templates for monolingual commands (and the scripts and files to recreate them).
 - `src2info.py`: This contains constants to be imported in `./create_dataset.py`.
 
+We have already run `./prompt_templates/json/make_template_jsons.py`
+to prepare prompt templates for monolingual commands; outputs are already provided. 
+We just included the file in case people want to customize. 
+If customizing, this script would need to be run after `create_dataset.py` before running 
+the AL-QASIDA evaluation.
 
+After completing the steps in this README, please proceed to [../eval/README.md](../eval/README.md)

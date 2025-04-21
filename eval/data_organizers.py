@@ -47,7 +47,11 @@ class InDataOrganizer():
         self.test = test
 
     def get_prompts(self, csv_path):
-        df = pd.read_csv(csv_path) 
+        try:
+            df = pd.read_csv(csv_path) 
+        except:
+            print("Could not process", csv_path, "!!!!")
+            raise
         if self.test:
             df = df.head(5)
         return [p for p in df['prompt']] 
@@ -59,7 +63,7 @@ class InDataOrganizer():
         return [c for c in df['completion']] 
     
     def get_dialect(self, csv_path): 
-        assert csv_path.endswith(".csv")
+        assert csv_path.endswith(".csv"), f"Wrong CSV name: {csv_path}"
         return os.path.split(csv_path)[-1][:-4]
     
     def organize_prompts(self, mt_refs=False):
@@ -70,7 +74,7 @@ class InDataOrganizer():
         # Get organized 
         organization = {subdir: {} for subdir in self.subdirs} 
         for subdir in self.subdirs: 
-            csv_fns = glob.glob(os.path.join(self.parent_dir, subdir, '*'))
+            csv_fns = glob.glob(os.path.join(self.parent_dir, subdir, '*.csv'))
             for csv_fn in csv_fns: 
                 dialect = self.get_dialect(csv_fn)
                 csv_prompts = get_texts_fcn(csv_fn)
