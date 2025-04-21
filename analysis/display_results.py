@@ -71,7 +71,7 @@ RESULTS_DIR = "../llm_outputs"  # dir where all these things are
 
 TASK2GENRES = {
     "monolingual": ["BTEC", "FLORES", "HABIBI", "TWEET"],
-    "crosslingual": ["HEHE", "Okapi", "ShareGPT"],
+    "crosslingual": ["Cohere", "Okapi", "ShareGPT"],
     "mt": ["BTEC", "FLORES"]
 }
 

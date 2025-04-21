@@ -17,7 +17,7 @@ GENRE2STR = {
     "music/habibi": "HABIBI",
     "tweets/nadi2023": "TWEET",
     "wiki/flores": "FLORES",
-    "hehe": "HEHE",
+    "hehe": "Cohere",
     "okapi": "Okapi",
     "sharegpt": "ShareGPT"
 }

@@ -11,10 +11,10 @@ import numpy as np
 DIALECTS = ["dza", "egy", "sau", "syr"]
 
 lingual2genre = {
-    "crosslingual": ["HEHE", "Okapi", "ShareGPT"],
+    "crosslingual": ["Cohere", "Okapi", "ShareGPT"],
     "monolingual": ["BTEC", "FLORES", "HABIBI", "TWEET"]
 } 
-genre_order = ["HEHE", "ShareGPT", "BTEC", "FLORES", "HABIBI", "TWEET", "Okapi"]
+genre_order = ["Cohere", "ShareGPT", "BTEC", "FLORES", "HABIBI", "TWEET", "Okapi"]
 
 def get_score(csv_fn):
     df = pd.read_csv(csv_fn)
