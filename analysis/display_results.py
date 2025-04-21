@@ -72,7 +72,7 @@ RESULTS_DIR = "../llm_outputs"  # dir where all these things are
 TASK2GENRES = {
     "monolingual": ["BTEC", "FLORES", "HABIBI", "TWEET"],
     "crosslingual": ["HEHE", "Okapi", "ShareGPT"],
-    "mt": ["Madar26", "Flores200"]
+    "mt": ["BTEC", "FLORES"]
 }
 
 DIALECTS = ["dza", "egy", "sau", "syr"]  + ["kwt", "mar", "pse", "sdn"]
@@ -102,8 +102,6 @@ FLORES_NEGLECTS = FLORES_NEGLECTS + \
 GENRE2NEGLECTED_DIALECTS = {
     "Flores200": FLORES_NEGLECTS,
     "FLORES": FLORES_NEGLECTS,  # Not sure why these names differ
-    "Madar26": [f"{dialect}_to_eng" for dialect in DIALECTS] +  # X -> eng
-        [f"eng_to_{dialect}" for dialect in DIALECTS],          # eng -> X
 }
 
 FILE_TEMPLATE = "Dialect{abbreviation}_{genre}_{dialect}_metrics.csv"

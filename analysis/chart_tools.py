@@ -59,6 +59,8 @@ FLOOR_BLEU_MAP = {
         "syr": 0.309
     }
 }
+FLOOR_BLEU_MAP["FLORES"] = FLOOR_BLEU_MAP["Flores200"]
+FLOOR_BLEU_MAP["BTEC"] = FLOOR_BLEU_MAP["Madar26"]
 SUPTITLE = False 
 
 # data: Map TASK -> MODEL -> GENRE -> DIALECT -> METRIC -> SCORE
