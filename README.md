@@ -1,5 +1,7 @@
 # al-qasida
 
+⚠️⚠️⚠️ This repo is no longer being updated and has been relocated to [https://github.com/JHU-CLSP/al-qasida](https://github.com/JHU-CLSP/al-qasida). Please use that repo instead. ❗❗❗
+
 Welcome! This is the official repo for AL-QASIDA (Robinson et al., 2025), 
 the first comprehensive evaluation for LLM dialectal Arabic proficiency, presented in 
 this paper: 
