@@ -12,7 +12,7 @@ DA_ISO_CODES = [ # Which Dialectal Arabic varieties to include
     'ars', # Najdi (Saudi) Arabic 
 ]
 
-def get_lines(iso, script, split="devtest"): 
+def get_lines(iso, script, split=SPLIT): 
     # Example: get_lines('arz', 'Arab')
     flores_code = f"{iso}_{script}"
     data = load_dataset(
@@ -24,7 +24,7 @@ def get_lines(iso, script, split="devtest"):
     lines = [datum['sentence'].strip() + '\n' for datum in data] 
     return lines 
 
-def main(verbose=True, split="devtest"):
+def main(verbose=True, split=SPLIT):
     for iso in DA_ISO_CODES + ['arb', 'eng']: 
         # Retrieve data
         script = "Latn" if iso == "eng" else "Arab"
