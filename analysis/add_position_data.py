@@ -7,7 +7,7 @@ data. This script uses fully documented outputs to add them in.
 import os, glob 
 import pandas as pd 
 
-GENRES = ["HEHE", "Okapi", "ShareGPT"]
+GENRES = ["Cohere", "Okapi", "ShareGPT"]
 DIALECTS = ["dza", "egy", "kwt", "mar", "pse", "sau", "sdn", "syr"] 
 
 for genre in GENRES:

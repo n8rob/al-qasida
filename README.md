@@ -1,5 +1,7 @@
 # al-qasida
 
+⚠️⚠️⚠️ This repo is no longer being updated and has been relocated to [https://github.com/JHU-CLSP/al-qasida](https://github.com/JHU-CLSP/al-qasida). Please use that repo instead. ❗❗❗
+
 Welcome! This is the official repo for AL-QASIDA (Robinson et al., 2025), 
 the first comprehensive evaluation for LLM dialectal Arabic proficiency, presented in 
 this paper: 
@@ -21,6 +23,12 @@ Please cite:
 
 ## Instructions
 
+To set up the environment, run:
+
+```
+bash setup.sh
+```
+
 For instructions on running AL-QASIDA, refer to 
 
 1. [`data_processing/README.md`](data_processing/README.md)
@@ -28,6 +36,9 @@ For instructions on running AL-QASIDA, refer to
 3. [`humevals/README.md`](humevals/README.md)
 
 in that order. 
+
+You could also skip to step #3 if you don't want to run AL-QASIDA on your own model. 
+The results for the models we evaluated in our paper are already in `llm_outputs`.
 
 ## Contact 
 

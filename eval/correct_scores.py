@@ -29,7 +29,7 @@ GENRE_MAP = {
     "wiki/flores": "FLORES",
     "music/habibi": "HABIBI",
     "tweets/nadi2023": "TWEET",
-    "hehe": "HEHE",
+    "hehe": "Cohere",
     "okapi": "Okapi",
     "sharegpt": "ShareGPT"
 }

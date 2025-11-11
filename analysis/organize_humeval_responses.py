@@ -1,33 +1,32 @@
 """
 Organizes model outputs and configures them in a CSV for human eval.
-Writes CSV files to ./humeval directory
+Writes CSV files to ../humevals/pre_humeval directory
 """
 
 from prep_feature_data import df2prompts, df2responses 
 
 import pandas as pd 
-import glob, os, random 
-
-HUMEVAL_MODELS = ["command_r+", "gpt-4o", "command_r+_base"]
-HUMEVAL_TASKS = ["monolingual", "mt"]
-HUMEVAL_DIALECTS = ["egy", "syr", "kwt"]
+import glob, os, random, argparse, pdb 
 
 random.seed(sum(bytes(b'qasida'))) 
 
-def main(out_dir="../humevals/pre_humeval", num_evals=50):
+TASK2ADEQUACY_NAME = {"monolingual": "Adherence", "mt": "Adequacy"}
+
+def main(args):
+    out_dir, num_evals = args.out_dir, args.num_evals
     # Make out_dir 
     if not os.path.exists(out_dir):
         os.makedirs(out_dir)
-        print(out_dir)
+        print("Created", out_dir)
     # Compile list of csv file names 
-    for dialect in HUMEVAL_DIALECTS: 
-        for task in HUMEVAL_TASKS:
+    for dialect in args.dialects: 
+        for task in args.tasks:
             # Get ready for data 
             data_list = [] 
             # Define out_csv file name
             out_csv_coda = f"{dialect}_{task}_prompts_responses.csv"
             out_csv = os.path.join(out_dir, out_csv_coda)
-            for llm in HUMEVAL_MODELS:
+            for llm in args.models:
                 # Get filenames and loop 
                 glob_str = f"../llm_outputs/{llm}_{task}/"
                 if task == "mt":
@@ -62,19 +61,54 @@ def main(out_dir="../humevals/pre_humeval", num_evals=50):
             random.shuffle(data_list)
             # Reorganize data 
             data = {
-                "prompt": [datum["prompt"] for datum in data_list],
-                "completion": [datum["completion"] for datum in data_list],
-                "model": [datum["model"] for datum in data_list],
-                "dialect": [datum["dialect"] for datum in data_list],
+                "Dialect": [datum["dialect"] for datum in data_list],
+                "Prompt": [datum["prompt"] for datum in data_list],
+                "Completion": [datum["completion"] for datum in data_list],
+                "Model": [datum["model"] for datum in data_list],
+                TASK2ADEQUACY_NAME.get(task, "Adequacy"): [
+                    "" for datum in data_list
+                ],
+                "Fluency": ["" for datum in data_list],
+                "Dialectal Accuracy": ["" for datum in data_list],
             }
             # Save csv 
             out_df = pd.DataFrame(data)
             out_df.to_csv(out_csv)
-            print(out_csv)
+            print("Written", out_csv)
 
 if __name__ == "__main__": 
-    
-    main() 
+
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument(
+            "--models",
+            nargs='+',
+            type=str, 
+            default=["command_r+", "gpt-4o", "command_r+_base"]
+    )
+    parser.add_argument(
+            "--tasks",
+            nargs='+',
+            type=str,
+            default=["monolingual", "mt"]
+    )
+    parser.add_argument(
+            "--dialects",
+            nargs='+',
+            type=str,
+            default=["egy", "syr"]
+    )
+    parser.add_argument(
+            "--out_dir", 
+            type=str, 
+            default="../humevals/pre_humeval"
+    )
+    parser.add_argument("--num_evals", type=int, default=50)
+
+
+    args = parser.parse_args()
+
+    main(args) 
 
                 
 
